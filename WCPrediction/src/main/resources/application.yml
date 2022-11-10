@@ -4,13 +4,13 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/world?serverTimezone=UTC&characterEncoding=UTF-8
+    jdbc-url: jdbc:mysql://localhost:3306/qatar?serverTimezone=UTC&characterEncoding=UTF-8&allowPublicKeyRetrieval=true
     username: soccer
     password: soccer
   jpa:
     open-in-view: true
     hibernate:
-      ddl-auto: create
+      ddl-auto: validate
       use-new-id-generate-mappings: false
     show-sql: true
     properties:

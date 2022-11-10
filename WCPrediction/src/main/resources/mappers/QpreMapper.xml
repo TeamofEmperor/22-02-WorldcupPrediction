@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="team.ofemperor.WCPrediction.dao.QpreDAO">
+    <select id="getScheduleData" resultType="hashMap">
+        select
+            games.Group, Home, Away, games.Date, Home_Winrate, Away_Win_rate
+        from
+            games;
+    </select>
+</mapper>
