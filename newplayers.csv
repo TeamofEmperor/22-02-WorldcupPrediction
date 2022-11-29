@@ -1,0 +1,831 @@
+CID,CountryCode,Back_No,Position,name,Player_img,birth,games,goals,club
+1,QAT,1,GK,Saad Al-Sheeb,,19 February 1990  32,76,0, Al-Sadd
+,QAT,2,DF,Ró-Ró,,6 August 1990  32,80,1, Al-Sadd
+,QAT,3,MF,Abdelkarim Hassan,,28 August 1993  29,130,15, Al-Sadd
+,QAT,4,DF,Mohammed Waad,,18 September 1999  23,21,0, Al-Sadd
+,QAT,5,DF,Tarek Salman,,5 December 1997  24,58,0, Al-Sadd
+,QAT,6,MF,Abdulaziz Hatem,,28 October 1990  32,107,11, Al-Rayyan
+,QAT,7,FW,Ahmed Alaaeldin,,31 January 1993  29,47,2, Al-Gharafa
+,QAT,8,MF,Ali Assadalla,,19 January 1993  29,59,12, Al-Sadd
+,QAT,9,FW,Mohammed Muntari,,20 December 1993  28,48,13, Al-Duhail
+,QAT,10,MF,Hassan Al-Haydos ,,11 December 1990  31,169,36, Al-Sadd
+,QAT,11,FW,Akram Afif,,18 November 1996  26,89,26, Al-Sadd
+,QAT,12,MF,Karim Boudiaf,,16 September 1990  32,115,6, Al-Duhail
+,QAT,13,DF,Musab Kheder,,26 September 1993  29,30,0, Al-Sadd
+,QAT,14,DF,Homam Ahmed,,25 August 1999  23,29,2, Al-Gharafa
+,QAT,15,DF,Bassam Al-Rawi,,16 December 1997  24,58,2, Al-Duhail
+,QAT,16,DF,Boualem Khoukhi,,7 September 1990  32,105,20, Al-Sadd
+,QAT,17,DF,Ismaeel Mohammad,,5 April 1990  32,70,4, Al-Duhail
+,QAT,18,FW,Khalid Muneer,,24 February 1998  24,2,0, Al-Wakrah
+,QAT,19,FW,Almoez Ali,,19 August 1996  26,85,42, Al-Duhail
+,QAT,20,MF,Salem Al-Hajri,,10 April 1996  26,22,0, Al-Sadd
+,QAT,21,GK,Yousef Hassan,,24 May 1996  26,7,0, Al-Gharafa
+,QAT,22,GK,Meshaal Barsham,,14 February 1998  24,20,0, Al-Sadd
+,QAT,23,MF,Assim Madibo,,22 October 1996  26,43,0, Al-Duhail
+,QAT,24,MF,Naif Al-Hadhrami,,18 July 2001  21,1,0, Al-Rayyan
+,QAT,25,MF,Jassem Gaber,,20 February 2002  20,0,0, Al-Arabi
+,QAT,26,MF,Mostafa Meshaal,,28 March 2001  21,1,0, Al-Sadd
+,ECU,1,GK,Hernán Galíndez,,30 March 1987  35,12,0, Aucas
+,ECU,2,DF,Félix Torres,,11 January 1997  25,17,2, Santos Laguna
+,ECU,3,DF,Piero Hincapié,,9 January 2002  20,21,1, Bayer Leverkusen
+,ECU,4,DF,Robert Arboleda,,22 October 1991  31,33,2, São Paulo
+,ECU,5,MF,José Cifuentes,,12 March 1999  23,11,0, Los Angeles FC
+,ECU,6,DF,William Pacho,,16 October 2001  21,0,0, Antwerp
+,ECU,7,DF,Pervis Estupiñán,,21 January 1998  24,28,3, Brighton & Hove Albion
+,ECU,8,MF,Carlos Gruezo,,19 April 1995  27,45,1, FC Augsburg
+,ECU,9,MF,Ayrton Preciado,,17 July 1994  28,25,3, Santos Laguna
+,ECU,10,MF,Romario Ibarra,,24 September 1994  28,25,3, Pachuca
+,ECU,11,FW,Michael Estrada,,7 April 1996  26,35,8, Cruz Azul
+,ECU,12,GK,Moisés Ramírez,,9 September 2000  22,2,0, Independiente del Valle
+,ECU,13,FW,Enner Valencia ,,4 November 1989  33,74,35, Fenerbahçe
+,ECU,14,DF,Xavier Arreaga,,28 September 1994  28,18,1, Seattle Sounders FC
+,ECU,15,MF,Ángel Mena,,21 January 1988  34,46,7, León
+,ECU,16,MF,Jeremy Sarmiento,,16 June 2002  20,9,0, Brighton & Hove Albion
+,ECU,17,DF,Ángelo Preciado,,18 February 1998  24,25,0, Genk
+,ECU,18,DF,Diego Palacios,,12 July 1999  23,12,0, Los Angeles FC
+,ECU,19,MF,Gonzalo Plata,,1 November 2000  22,30,5, Valladolid
+,ECU,20,MF,Sebas Méndez,,26 April 1997  25,32,0, Los Angeles FC
+,ECU,21,MF,Alan Franco,,21 August 1998  24,25,1, Talleres
+,ECU,22,GK,Alexander Domínguez,,5 June 1987  35,68,0, LDU Quito
+,ECU,23,MF,Moisés Caicedo,,2 November 2001  21,25,2, Brighton & Hove Albion
+,ECU,24,FW,Djorkaeff Reasco,,18 January 1999  23,4,0, Newell's Old Boys
+,ECU,25,DF,Jackson Porozo,,4 August 2000  22,5,0, Troyes
+,ECU,26,FW,Kevin Rodríguez,,4 March 2000  22,1,0, Imbabura
+,SEN,1,GK,Édouard Mendy,,1 March 1992  30,25,0, Chelsea
+,SEN,2,DF,Ismail Jakobs,,17 August 1999  23,2,0, Monaco
+,SEN,3,DF,Kalidou Koulibaly ,,20 June 1991  31,64,0, Chelsea
+,SEN,4,DF,Abdou Diallo,,4 May 1996  26,18,2, RB Leipzig
+,SEN,5,MF,Idrissa Gueye,,26 September 1989  33,96,7, Everton
+,SEN,6,MF,Nampalys Mendy,,23 June 1992  30,19,0, Leicester City
+,SEN,7,DF,Youssouf Sabaly,,5 March 1993  29,24,0, Real Betis
+,SEN,8,DF,Cheikhou Kouyaté,,21 December 1989  32,83,4, Nottingham Forest
+,SEN,9,FW,Iliman Ndiaye,,6 March 2000  22,2,0, Sheffield United
+,SEN,10,FW,Sadio Mané,,10 April 1992  30,93,34, Bayern Munich
+,SEN,11,DF,Formose Mendy,,2 January 2001  21,2,0, Amiens
+,SEN,12,DF,Pape Abou Cissé,,14 September 1995  27,13,1, Olympiacos
+,SEN,13,MF,Pape Gueye,,24 January 1999  23,12,0, Marseille
+,SEN,14,DF,Moustapha Name,,5 May 1995  27,6,0, Pafos
+,SEN,15,MF,Krépin Diatta,,25 February 1999  23,26,2, Monaco
+,SEN,16,MF,Pathé Ciss,,16 March 1994  28,1,0, Rayo Vallecano
+,SEN,17,MF,Pape Matar Sarr,,14 September 2002  20,10,0, Tottenham Hotspur
+,SEN,18,FW,Ismaïla Sarr,,25 February 1998  24,48,10, Watford
+,SEN,19,FW,Famara Diédhiou,,15 December 1992  29,24,10, Alanyaspor
+,SEN,20,FW,Bamba Dieng,,23 March 2000  22,13,2, Marseille
+,SEN,21,FW,Boulaye Dia,,16 November 1996  26,19,3, Salernitana
+,SEN,22,DF,Fodé Ballo-Touré,,3 January 1997  25,14,0, Milan
+,SEN,23,GK,Seny Dieng,,23 November 1994  27,4,0, Queens Park Rangers
+,SEN,24,MF,Mamadou Loum,,30 December 1996  25,3,0, Reading
+,SEN,25,FW,Nicolas Jackson,,20 June 2001  21,0,0, Villarreal
+,SEN,26,GK,Alfred Gomis,,5 September 1993  29,14,0, Rennes
+,NED,1,GK,Remko Pasveer,,8 November 1983  39,2,0, Ajax
+,NED,2,DF,Jurriën Timber,,17 June 2001  21,10,0, Ajax
+,NED,3,DF,Matthijs de Ligt,,12 August 1999  23,38,2, Bayern Munich
+,NED,4,DF,Virgil van Dijk ,,8 July 1991  31,49,6, Liverpool
+,NED,5,DF,Nathan Aké,,18 February 1995  27,29,3, Manchester City
+,NED,6,DF,Stefan de Vrij,,5 February 1992  30,59,3, Internazionale
+,NED,7,FW,Steven Bergwijn,,8 October 1997  25,24,7, Ajax
+,NED,8,FW,Cody Gakpo,,7 May 1999  23,9,3, PSV Eindhoven
+,NED,9,FW,Luuk de Jong,,27 August 1990  32,38,8, PSV Eindhoven
+,NED,10,FW,Memphis Depay,,13 February 1994  28,81,42, Barcelona
+,NED,11,MF,Steven Berghuis,,19 December 1991  30,39,2, Ajax
+,NED,12,FW,Noa Lang,,17 June 1999  23,5,1, Club Brugge
+,NED,13,GK,Justin Bijlow,,22 January 1998  24,6,0, Feyenoord
+,NED,14,MF,Davy Klaassen,,21 February 1993  29,35,9, Ajax
+,NED,15,MF,Marten de Roon,,29 March 1991  31,30,0, Atalanta
+,NED,16,DF,Tyrell Malacia,,17 August 1999  23,6,0, Manchester United
+,NED,17,DF,Daley Blind,,9 March 1990  32,94,2, Ajax
+,NED,18,FW,Vincent Janssen,,15 June 1994  28,20,7, Antwerp
+,NED,19,FW,Wout Weghorst,,7 August 1992  30,15,3, Beşiktaş
+,NED,20,MF,Teun Koopmeiners,,28 February 1998  24,10,1, Atalanta
+,NED,21,MF,Frenkie de Jong,,12 May 1997  25,45,1, Barcelona
+,NED,22,DF,Denzel Dumfries,,18 April 1996  26,37,5, Internazionale
+,NED,23,GK,Andries Noppert,,7 April 1994  28,0,0, Heerenveen
+,NED,24,MF,Kenneth Taylor,,16 May 2002  20,2,0, Ajax
+,NED,25,MF,Xavi Simons,,21 April 2003  19,0,0, PSV Eindhoven
+,NED,26,DF,Jeremie Frimpong,,10 December 2000  21,0,0, Bayer Leverkusen
+,ENG,1,GK,Jordan Pickford,,7 March 1994  28,45,0, Everton
+,ENG,2,DF,Kyle Walker,,28 May 1990  32,70,0, Manchester City
+,ENG,3,DF,Luke Shaw,,12 July 1995  27,23,3, Manchester United
+,ENG,4,MF,Declan Rice,,14 January 1999  23,34,2, West Ham United
+,ENG,5,DF,John Stones,,28 May 1994  28,59,3, Manchester City
+,ENG,6,DF,Harry Maguire,,5 March 1993  29,48,7, Manchester United
+,ENG,7,FW,Jack Grealish,,10 September 1995  27,24,1, Manchester City
+,ENG,8,MF,Jordan Henderson,,17 June 1990  32,70,2, Liverpool
+,ENG,9,FW,Harry Kane ,,28 July 1993  29,75,51, Tottenham Hotspur
+,ENG,10,FW,Raheem Sterling,,8 December 1994  27,79,19, Chelsea
+,ENG,11,FW,Marcus Rashford,,31 October 1997  25,46,12, Manchester United
+,ENG,12,DF,Kieran Trippier,,19 September 1990  32,37,1, Newcastle United
+,ENG,13,GK,Nick Pope,,19 April 1992  30,10,0, Newcastle United
+,ENG,14,MF,Kalvin Phillips,,2 December 1995  26,23,0, Manchester City
+,ENG,15,DF,Eric Dier,,15 January 1994  28,47,3, Tottenham Hotspur
+,ENG,16,DF,Conor Coady,,25 February 1993  29,10,1, Everton
+,ENG,17,FW,Bukayo Saka,,5 September 2001  21,20,4, Arsenal
+,ENG,18,DF,Trent Alexander-Arnold,,7 October 1998  24,17,1, Liverpool
+,ENG,19,MF,Mason Mount,,10 January 1999  23,32,5, Chelsea
+,ENG,20,MF,Phil Foden,,28 May 2000  22,18,2, Manchester City
+,ENG,21,DF,Ben White,,8 October 1997  25,4,0, Arsenal
+,ENG,22,MF,Jude Bellingham,,29 June 2003  19,17,0, Borussia Dortmund
+,ENG,23,GK,Aaron Ramsdale,,14 May 1998  24,3,0, Arsenal
+,ENG,24,FW,Callum Wilson,,27 February 1992  30,4,1, Newcastle United
+,ENG,25,MF,James Maddison,,23 November 1996  25,1,0, Leicester City
+,ENG,26,MF,Conor Gallagher,,6 February 2000  22,4,0, Chelsea
+,IRN,1,GK,Alireza Beiranvand,,21 September 1992  30,52,0, Persepolis
+,IRN,2,DF,Sadegh Moharrami,,1 March 1996  26,21,0, Dinamo Zagreb
+,IRN,3,DF,Ehsan Hajsafi ,,25 February 1990  32,121,7, AEK Athens
+,IRN,4,DF,Shojae Khalilzadeh,,14 May 1989  33,25,1, Al-Ahli Doha
+,IRN,5,DF,Milad Mohammadi,,29 September 1993  29,45,1, AEK Athens
+,IRN,6,MF,Saeid Ezatolahi,,1 October 1996  26,47,1, Vejle
+,IRN,7,MF,Alireza Jahanbakhsh,,11 August 1993  29,64,13, Feyenoord
+,IRN,8,DF,Morteza Pouraliganji,,19 April 1992  30,46,3, Persepolis
+,IRN,9,FW,Mehdi Taremi,,18 July 1992  30,60,28, Porto
+,IRN,10,FW,Karim Ansarifard,,3 April 1990  32,94,29, Omonia
+,IRN,11,MF,Vahid Amiri,,2 April 1988  34,68,2, Persepolis
+,IRN,12,GK,Payam Niazmand,,6 April 1995  27,1,0, Sepahan
+,IRN,13,DF,Hossein Kanaanizadegan,,23 March 1994  28,35,2, Al-Ahli Doha
+,IRN,14,MF,Saman Ghoddos,,6 September 1993  29,33,2, Brentford
+,IRN,15,DF,Rouzbeh Cheshmi,,24 July 1993  29,19,1, Esteghlal
+,IRN,16,MF,Mehdi Torabi,,10 September 1994  28,36,6, Persepolis
+,IRN,17,MF,Ali Gholizadeh,,10 March 1996  26,26,6, Charleroi
+,IRN,18,MF,Ali Karimi,,11 February 1994  28,13,0, Kayserispor
+,IRN,19,DF,Majid Hosseini,,20 June 1996  26,18,0, Kayserispor
+,IRN,20,FW,Sardar Azmoun,,1 January 1995  27,65,41, Bayer Leverkusen
+,IRN,21,MF,Ahmad Nourollahi,,1 February 1993  29,26,3, Shabab Al-Ahli
+,IRN,22,GK,Amir Abedzadeh,,26 April 1993  29,11,0, Ponferradina
+,IRN,23,DF,Ramin Rezaeian,,21 March 1990  32,46,2, Sepahan
+,IRN,24,GK,Hossein Hosseini,,30 June 1992  30,6,0, Esteghlal
+,IRN,25,DF,Abolfazl Jalali,,26 June 1998  24,3,0, Esteghlal
+,USA,1,GK,Matt Turner,,24 June 1994  28,20,0, Arsenal
+,USA,2,DF,Sergiño Dest,,3 November 2000  22,19,2, Milan
+,USA,3,DF,Walker Zimmerman,,19 May 1993  29,33,3, Nashville SC
+,USA,4,MF,Tyler Adams,,14 February 1999  23,32,1, Leeds United
+,USA,5,DF,Antonee Robinson,,8 August 1997  25,29,2, Fulham
+,USA,6,MF,Yunus Musah,,29 November 2002  19,19,0, Valencia
+,USA,7,FW,Giovanni Reyna,,13 November 2002  20,14,4, Borussia Dortmund
+,USA,8,MF,Weston McKennie,,28 August 1998  24,37,9, Juventus
+,USA,9,FW,Jesús Ferreira,,24 December 2000  21,15,7, FC Dallas
+,USA,10,FW,Christian Pulisic,,18 September 1998  24,52,21, Chelsea
+,USA,11,FW,Brenden Aaronson,,22 October 2000  22,24,6, Leeds United
+,USA,12,GK,Ethan Horvath,,9 June 1995  27,8,0, Luton Town
+,USA,13,DF,Tim Ream,,5 October 1987  35,46,1, Fulham
+,USA,14,MF,Luca de la Torre,,23 May 1998  24,12,0, Celta Vigo
+,USA,15,DF,Aaron Long,,12 October 1992  30,29,3, New York Red Bulls
+,USA,16,FW,Jordan Morris,,26 October 1994  28,49,11, Seattle Sounders FC
+,USA,17,MF,Cristian Roldan,,3 June 1995  27,32,0, Seattle Sounders FC
+,USA,18,DF,Shaq Moore,,2 November 1996  26,15,1, Nashville SC
+,USA,19,FW,Haji Wright,,27 March 1998  24,3,1, Antalyaspor
+,USA,20,DF,Cameron Carter-Vickers,,31 December 1997  24,11,0, Celtic
+,USA,21,FW,Timothy Weah,,22 February 2000  22,25,3, Lille
+,USA,22,DF,DeAndre Yedlin,,9 July 1993  29,75,0, Inter Miami CF
+,USA,23,MF,Kellyn Acosta,,24 July 1995  27,53,2, Los Angeles FC
+,USA,24,FW,Josh Sargent,,20 February 2000  22,20,5, Norwich City
+,USA,25,GK,Sean Johnson,,31 May 1989  33,10,0, New York City FC
+,USA,26,DF,Joe Scally,,31 December 2002  19,3,0, Borussia Mönchengladbach
+,WAL,1,GK,Wayne Hennessey,,24 January 1987  35,106,0, Nottingham Forest
+,WAL,2,DF,Chris Gunter,,21 July 1989  33,109,0, Wimbledon
+,WAL,3,DF,Neco Williams,,13 April 2001  21,23,2, Nottingham Forest
+,WAL,4,DF,Ben Davies,,24 April 1993  29,74,1, Tottenham Hotspur
+,WAL,5,DF,Chris Mepham,,5 November 1997  25,33,0, Bournemouth
+,WAL,6,DF,Joe Rodon,,22 October 1997  25,30,0, Rennes
+,WAL,7,MF,Joe Allen,,14 March 1990  32,72,2, Swansea City
+,WAL,8,MF,Harry Wilson,,22 March 1997  25,39,5, Fulham
+,WAL,9,FW,Brennan Johnson,,23 May 2001  21,15,2, Nottingham Forest
+,WAL,10,MF,Aaron Ramsey,,26 December 1990  31,75,20, Nice
+,WAL,11,FW,Gareth Bale ,,16 July 1989  33,108,40, Los Angeles FC
+,WAL,12,GK,Danny Ward,,22 June 1993  29,26,0, Leicester City
+,WAL,13,FW,Kieffer Moore,,8 August 1992  30,28,9, Bournemouth
+,WAL,14,DF,Connor Roberts,,23 September 1995  27,41,3, Burnley
+,WAL,15,DF,Ethan Ampadu,,14 September 2000  22,37,0, Spezia
+,WAL,16,MF,Joe Morrell,,3 January 1997  25,30,0, Portsmouth
+,WAL,17,DF,Tom Lockyer,,3 December 1994  27,14,0, Luton Town
+,WAL,18,MF,Jonny Williams,,9 October 1993  29,33,2, Swindon Town
+,WAL,19,FW,Mark Harris,,29 December 1998  23,5,0, Cardiff City
+,WAL,20,FW,Daniel James,,10 November 1997  25,38,5, Fulham
+,WAL,21,GK,Adam Davies,,17 July 1992  30,3,0, Sheffield United
+,WAL,22,MF,Sorba Thomas,,25 January 1999  23,6,0, Huddersfield Town
+,WAL,23,MF,Dylan Levitt,,17 November 2000  22,13,0, Dundee United
+,WAL,24,DF,Ben Cabango,,30 May 2000  22,5,0, Swansea City
+,WAL,25,DF,Rubin Colwill,,27 April 2002  20,7,1, Cardiff City
+,WAL,26,MF,Matthew Smith,,22 November 1999  22,19,0, Milton Keynes Dons
+,ARG,1,GK,Franco Armani,,16 October 1986  36,18,0, River Plate
+,ARG,2,DF,Juan Foyth,,12 January 1998  24,15,0, Villarreal
+,ARG,3,DF,Nicolás Tagliafico,,31 August 1992  30,42,0, Lyon
+,ARG,4,DF,Gonzalo Montiel,,1 January 1997  25,17,0, Sevilla
+,ARG,5,MF,Leandro Paredes,,29 June 1994  28,45,4, Juventus
+,ARG,6,DF,Germán Pezzella,,27 June 1991  31,31,2, Real Betis
+,ARG,7,MF,Rodrigo De Paul,,24 May 1994  28,43,2, Atlético Madrid
+,ARG,8,MF,Marcos Acuña,,28 October 1991  31,42,0, Sevilla
+,ARG,9,FW,Julián Álvarez,,31 January 2000  22,11,2, Manchester City
+,ARG,10,FW,Lionel Messi ,,24 June 1987  35,164,90, Paris Saint-Germain
+,ARG,11,FW,Ángel Di María,,14 February 1988  34,123,25, Juventus
+,ARG,12,GK,Gerónimo Rulli,,20 May 1992  30,4,0, Villarreal
+,ARG,13,DF,Cristian Romero,,27 April 1998  24,12,1, Tottenham Hotspur
+,ARG,14,MF,Exequiel Palacios,,5 October 1998  24,20,0, Bayer Leverkusen
+,ARG,15,FW,Nicolás González,,6 April 1998  24,21,3, Fiorentina
+,ARG,16,FW,Joaquín Correa,,13 August 1994  28,18,3, Internazionale
+,ARG,17,MF,Papu Gómez,,15 February 1988  34,15,3, Sevilla
+,ARG,18,MF,Guido Rodríguez,,12 April 1994  28,25,1, Real Betis
+,ARG,19,DF,Nicolás Otamendi,,12 February 1988  34,92,4, Benfica
+,ARG,20,MF,Alexis Mac Allister,,24 December 1998  23,7,0, Brighton & Hove Albion
+,ARG,21,FW,Paulo Dybala,,15 November 1993  29,34,3, Roma
+,ARG,22,FW,Lautaro Martínez,,22 August 1997  25,40,21, Internazionale
+,ARG,23,GK,Emiliano Martínez,,2 September 1992  30,18,0, Aston Villa
+,ARG,24,MF,Enzo Fernández,,17 January 2001  21,2,0, Benfica
+,ARG,25,DF,Lisandro Martínez,,18 January 1998  24,9,0, Manchester United
+,ARG,26,DF,Nahuel Molina,,6 April 1998  24,19,0, Atlético Madrid
+,KSA,1,GK,Mohammed Al-Rubaie,,14 August 1997  25,7,0, Al-Ahli
+,KSA,2,DF,Sultan Al-Ghannam,,6 May 1994  28,24,0, Al-Nassr
+,KSA,3,DF,Abdullah Madu,,15 July 1993  29,15,0, Al-Nassr
+,KSA,4,DF,Abdulelah Al-Amri,,15 January 1997  25,19,1, Al-Nassr
+,KSA,5,DF,Ali Al-Bulaihi,,21 November 1989  32,36,0, Al-Hilal
+,KSA,6,DF,Mohammed Al-Breik,,15 September 1992  30,40,1, Al-Hilal
+,KSA,7,MF,Salman Al-Faraj ,,1 August 1989  33,69,8, Al-Hilal
+,KSA,8,MF,Abdulellah Al-Malki,,11 October 1994  28,26,0, Al-Hilal
+,KSA,9,FW,Firas Al-Buraikan,,14 May 2000  22,26,6, Al-Fateh
+,KSA,10,FW,Salem Al-Dawsari,,19 August 1991  31,70,17, Al-Hilal
+,KSA,11,FW,Saleh Al-Shehri,,1 November 1993  29,19,10, Al-Hilal
+,KSA,12,DF,Saud Abdulhamid,,18 July 1999  23,22,1, Al-Hilal
+,KSA,13,DF,Yasser Al-Shahrani,,25 May 1992  30,71,2, Al-Hilal
+,KSA,14,MF,Abdullah Otayf,,3 August 1992  30,45,1, Al-Hilal
+,KSA,15,MF,Ali Al-Hassan,,4 March 1997  25,12,1, Al-Nassr
+,KSA,16,MF,Sami Al-Najei,,7 February 1997  25,17,2, Al-Nassr
+,KSA,17,DF,Hassan Al-Tambakti,,9 February 1999  23,18,0, Al-Shabab
+,KSA,18,MF,Nawaf Al-Abed,,26 January 1990  32,54,8, Al-Shabab
+,KSA,19,FW,Hattan Bahebri,,16 July 1992  30,40,4, Al-Shabab
+,KSA,20,FW,Abdulrahman Al-Aboud,,1 June 1995  27,3,0, Al-Ittihad
+,KSA,21,GK,Mohammed Al-Owais,,10 October 1991  31,41,0, Al-Hilal
+,KSA,22,GK,Nawaf Al-Aqidi,,10 May 2000  22,1,0, Al-Nassr
+,KSA,23,MF,Mohamed Kanno,,22 September 1994  28,37,1, Al-Hilal
+,KSA,24,MF,Nasser Al-Dawsari,,19 December 1998  23,9,0, Al-Hilal
+,KSA,25,FW,Haitham Asiri,,25 March 2001  21,7,1, Al-Ahli
+,KSA,26,MF,Riyadh Sharahili,,28 April 1993  29,5,0, Abha
+,MEX,1,GK,Alfredo Talavera,,18 September 1982  40,39,0, Juárez
+,MEX,2,DF,Néstor Araujo,,29 August 1991  31,61,3, América
+,MEX,3,DF,César Montes,,24 February 1997  25,28,1, Monterrey
+,MEX,4,DF,Edson Álvarez,,24 October 1997  25,58,3, Ajax
+,MEX,5,DF,Johan Vásquez,,22 October 1998  24,6,0, Cremonese
+,MEX,6,DF,Gerardo Arteaga,,7 September 1998  24,17,1, Genk
+,MEX,7,MF,Luis Romo,,5 June 1995  27,25,1, Monterrey
+,MEX,8,MF,Carlos Rodríguez,,3 January 1997  25,34,0, Cruz Azul
+,MEX,9,FW,Raúl Jiménez,,5 May 1991  31,94,29, Wolverhampton Wanderers
+,MEX,10,FW,Alexis Vega,,25 November 1997  24,20,4, Guadalajara
+,MEX,11,FW,Rogelio Funes Mori,,5 March 1991  31,15,5, Monterrey
+,MEX,12,GK,Rodolfo Cota,,3 July 1987  35,8,0, León
+,MEX,13,GK,Guillermo Ochoa,,13 July 1985  37,130,0, América
+,MEX,14,MF,Érick Gutiérrez,,15 June 1995  27,34,1, PSV Eindhoven
+,MEX,15,DF,Héctor Moreno,,17 January 1988  34,126,5, Monterrey
+,MEX,16,MF,Héctor Herrera,,19 April 1990  32,100,10, Houston Dynamo FC
+,MEX,17,FW,Orbelín Pineda,,24 March 1996  26,50,6, AEK Athens
+,MEX,18,MF,Andrés Guardado ,,28 September 1986  36,177,28, Real Betis
+,MEX,19,DF,Jorge Sánchez,,10 December 1997  24,25,1, Ajax
+,MEX,20,FW,Henry Martín,,18 November 1992  30,25,6, América
+,MEX,21,FW,Uriel Antuna,,21 August 1997  25,34,8, Cruz Azul
+,MEX,22,FW,Hirving Lozano,,30 July 1995  27,59,16, Napoli
+,MEX,23,DF,Jesús Gallardo,,15 August 1994  28,76,0, Monterrey
+,MEX,24,MF,Luis Chávez,,15 January 1996  26,7,0, Pachuca
+,MEX,25,FW,Roberto Alvarado,,7 September 1998  24,30,4, Guadalajara
+,MEX,26,DF,Kevin Álvarez,,15 January 1999  23,7,0, Pachuca
+,POL,1,GK,Wojciech Szczęsny,,18 April 1990  32,66,0, Juventus
+,POL,2,DF,Matty Cash,,7 August 1997  25,7,1, Aston Villa
+,POL,3,DF,Artur Jędrzejczyk,,4 November 1987  35,40,3, Legia Warsaw
+,POL,4,DF,Mateusz Wieteska,,11 February 1997  25,1,0, Clermont
+,POL,5,DF,Jan Bednarek,,12 April 1996  26,44,1, Aston Villa
+,POL,6,MF,Krystian Bielik,,4 January 1998  24,5,0, Birmingham City
+,POL,7,FW,Arkadiusz Milik,,28 February 1994  28,63,16, Juventus
+,POL,8,MF,Damian Szymański,,16 June 1995  27,8,1, AEK Athens
+,POL,9,FW,Robert Lewandowski ,,21 August 1988  34,134,76, Barcelona
+,POL,10,MF,Grzegorz Krychowiak,,29 January 1990  32,93,5, Al-Shabab
+,POL,11,MF,Kamil Grosicki,,8 June 1988  34,86,17, Pogoń Szczecin
+,POL,12,GK,Łukasz Skorupski,,5 May 1991  31,7,0, Bologna
+,POL,13,MF,Jakub Kamiński,,5 June 2002  20,3,1, VfL Wolfsburg
+,POL,14,DF,Jakub Kiwior,,15 February 2000  22,4,0, Spezia
+,POL,15,DF,Kamil Glik,,3 February 1988  34,98,6, Benevento
+,POL,16,FW,Karol Świderski,,23 January 1997  25,17,8, Charlotte FC
+,POL,17,MF,Szymon Żurkowski,,25 September 1997  25,6,0, Fiorentina
+,POL,18,DF,Bartosz Bereszyński,,12 July 1992  30,45,0, Sampdoria
+,POL,19,MF,Sebastian Szymański,,10 May 1999  23,17,1, Feyenoord
+,POL,20,MF,Piotr Zieliński,,20 May 1994  28,74,9, Napoli
+,POL,21,MF,Nicola Zalewski,,23 January 2002  20,7,0, Roma
+,POL,22,GK,Kamil Grabara,,8 January 1999  23,1,0, Copenhagen
+,POL,23,FW,Krzysztof Piątek,,1 July 1995  27,24,10, Salernitana
+,POL,24,MF,Przemysław Frankowski,,12 April 1995  27,25,1, Lens
+,POL,25,DF,Robert Gumny,,4 June 1998  24,4,0, FC Augsburg
+,POL,26,MF,Michał Skóraś,,15 February 2000  22,1,0, Lech Poznań
+,FRA,1,GK,Hugo Lloris ,,26 December 1986  35,139,0, Tottenham Hotspur
+,FRA,2,DF,Benjamin Pavard,,28 March 1996  26,46,2, Bayern Munich
+,FRA,3,DF,Axel Disasi,,11 March 1998  24,0,0, Monaco
+,FRA,4,DF,Raphaël Varane,,25 April 1993  29,87,5, Manchester United
+,FRA,5,DF,Jules Koundé,,12 November 1998  24,12,0, Barcelona
+,FRA,6,MF,Matteo Guendouzi,,14 April 1999  23,6,1, Marseille
+,FRA,7,FW,Antoine Griezmann,,21 March 1991  31,110,42, Atlético Madrid
+,FRA,8,MF,Aurélien Tchouaméni,,27 January 2000  22,14,1, Real Madrid
+,FRA,9,FW,Olivier Giroud,,30 September 1986  36,114,49, Milan
+,FRA,10,FW,Kylian Mbappé,,20 December 1998  23,59,28, Paris Saint-Germain
+,FRA,11,FW,Ousmane Dembélé,,15 May 1997  25,28,4, Barcelona
+,FRA,13,DF,Youssouf Fofana,,10 January 1999  23,2,0, Monaco
+,FRA,14,MF,Adrien Rabiot,,3 April 1995  27,29,2, Juventus
+,FRA,15,MF,Jordan Veretout,,1 March 1993  29,5,0, Marseille
+,FRA,16,GK,Steve Mandanda,,28 March 1985  37,34,0, Rennes
+,FRA,17,DF,William Saliba,,24 March 2001  21,7,0, Arsenal
+,FRA,18,DF,Dayot Upamecano,,27 October 1998  24,7,1, Bayern Munich
+,FRA,19,FW,Karim Benzema,,19 December 1987  34,97,37, Real Madrid
+,FRA,20,FW,Kingsley Coman,,13 June 1996  26,40,5, Bayern Munich
+,FRA,21,DF,Lucas Hernandez,,14 February 1996  26,32,0, Bayern Munich
+,FRA,22,DF,Theo Hernandez,,6 October 1997  25,7,1, Milan
+,FRA,23,GK,Alphonse Areola,,27 February 1993  29,5,0, West Ham United
+,FRA,24,DF,Ibrahima Konaté,,25 May 1999  23,2,0, Liverpool
+,FRA,25,MF,Eduardo Camavinga,,10 November 2002  20,4,1, Real Madrid
+,FRA,26,FW,Marcus Thuram,,6 August 1997  25,4,0, Borussia Mönchengladbach
+,DEN,1,GK,Kasper Schmeichel,,5 November 1986  36,86,0, Nice
+,DEN,2,DF,Joachim Andersen,,31 May 1996  26,19,0, Crystal Palace
+,DEN,3,DF,Victor Nelsson,,14 October 1998  24,7,0, Galatasaray
+,DEN,4,DF,Simon Kjær ,,26 March 1989  33,121,5, Milan
+,DEN,5,DF,Joakim Mæhle,,20 May 1997  25,31,9, Atalanta
+,DEN,6,DF,Andreas Christensen,,10 April 1996  26,58,2, Barcelona
+,DEN,7,MF,Mathias Jensen,,1 January 1996  26,20,1, Brentford
+,DEN,8,MF,Thomas Delaney,,3 September 1991  31,71,7, Sevilla
+,DEN,9,FW,Martin Braithwaite,,5 June 1991  31,62,10, Espanyol
+,DEN,10,MF,Christian Eriksen,,14 February 1992  30,117,39, Manchester United
+,DEN,11,MF,Andreas Skov Olsen,,29 December 1999  22,23,8, Club Brugge
+,DEN,12,FW,Kasper Dolberg,,6 October 1997  25,37,11, Sevilla
+,DEN,13,DF,Rasmus Kristensen,,11 July 1997  25,10,0, Leeds United
+,DEN,14,MF,Mikkel Damsgaard,,3 July 2000  22,18,4, Brentford
+,DEN,15,MF,Christian Nørgaard,,10 March 1994  28,17,1, Brentford
+,DEN,16,GK,Oliver Christensen,,22 March 1999  23,1,0, Hertha BSC
+,DEN,17,DF,Jens Stryger Larsen,,21 February 1991  31,49,3, Trabzonspor
+,DEN,18,DF,Daniel Wass,,31 May 1989  33,44,1, Brøndby
+,DEN,19,FW,Jonas Wind,,7 February 1999  23,15,5, VfL Wolfsburg
+,DEN,20,FW,Yussuf Poulsen,,15 June 1994  28,68,11, RB Leipzig
+,DEN,21,FW,Andreas Cornelius,,16 March 1993  29,41,9, Copenhagen
+,DEN,22,GK,Frederik Rønnow,,4 August 1992  30,8,0, Union Berlin
+,DEN,23,MF,Pierre-Emile Højbjerg,,5 August 1995  27,60,5, Tottenham Hotspur
+,DEN,24,MF,Robert Skov,,20 May 1996  26,11,5,1899 Hoffenheim
+,DEN,25,MF,Jesper Lindstrøm,,29 February 2000  22,6,1, Eintracht Frankfurt
+,DEN,26,DF,Alexander Bah,,9 December 1997  24,4,1, Benfica
+,TUN,1,GK,Aymen Mathlouthi,,14 September 1984  38,73,0, Étoile du Sahel
+,TUN,2,DF,Bilel Ifa,,9 March 1990  32,36,0, Kuwait SC
+,TUN,3,DF,Montassar Talbi,,26 May 1998  24,22,1, Lorient
+,TUN,4,DF,Yassine Meriah,,2 July 1993  29,60,3, Espérance de Tunis
+,TUN,5,MF,Nader Ghandri,,18 February 1995  27,7,0, Club Africain
+,TUN,6,DF,Dylan Bronn,,19 June 1995  27,36,2, Salernitana
+,TUN,7,FW,Youssef Msakni ,,28 October 1990  32,87,17, Al-Arabi
+,TUN,8,MF,Hannibal Mejbri,,21 January 2003  19,18,0, Birmingham City
+,TUN,9,FW,Issam Jebali,,25 December 1991  30,9,2, OB
+,TUN,10,FW,Wahbi Khazri,,8 February 1991  31,71,24, Montpellier
+,TUN,11,FW,Taha Yassine Khenissi,,6 January 1992  30,48,9, Kuwait SC
+,TUN,12,DF,Ali Maâloul,,1 January 1990  32,82,2, Al Ahly
+,TUN,13,MF,Ferjani Sassi,,18 March 1992  30,77,6, Al-Duhail
+,TUN,14,MF,Aïssa Laïdouni,,13 December 1996  25,24,1, Ferencváros
+,TUN,15,MF,Mohamed Ali Ben Romdhane,,6 September 1999  23,22,1, Espérance de Tunis
+,TUN,16,GK,Aymen Dahmen,,28 January 1997  25,4,0, CS Sfaxien
+,TUN,17,MF,Ellyes Skhiri,,10 May 1995  27,48,3,1. FC Köln
+,TUN,18,MF,Ghailene Chaalali,,28 February 1994  28,30,1, Espérance de Tunis
+,TUN,19,FW,Seifeddine Jaziri,,12 February 1993  29,29,10, Zamalek
+,TUN,20,DF,Mohamed Dräger,,25 June 1996  26,33,3, Luzern
+,TUN,21,DF,Wajdi Kechrida,,5 November 1995  27,18,0, Atromitos
+,TUN,22,GK,Bechir Ben Saïd,,29 November 1992  29,10,0, US Monastir
+,TUN,23,FW,Naïm Sliti,,27 July 1992  30,68,13, Al-Ettifaq
+,TUN,24,DF,Ali Abdi,,20 December 1993  28,9,1, Caen
+,TUN,25,FW,Anis Ben Slimane,,16 March 2001  21,24,4, Brøndby
+,TUN,26,GK,Mouez Hassen,,5 March 1995  27,20,0, Club Africai
+,AUS,1,GK,Mathew Ryan ,,8 April 1992  30,75,0, Copenhagen
+,AUS,2,DF,Miloš Degenek,,28 April 1994  28,38,1, Columbus Crew
+,AUS,3,DF,Nathaniel Atkinson,,13 June 1999  23,5,0, Heart of Midlothian
+,AUS,4,DF,Kye Rowles,,24 June 1998  24,3,0, Heart of Midlothian
+,AUS,5,DF,Fran Karačić,,12 May 1996  26,10,1, Brescia
+,AUS,6,FW,Martin Boyle,,25 April 1993  29,19,5, Hibernian
+,AUS,7,FW,Mathew Leckie,,4 February 1991  31,73,13, Melbourne City
+,AUS,8,DF,Bailey Wright,,28 July 1992  30,27,2, Sunderland
+,AUS,9,FW,Jamie Maclaren,,29 July 1993  29,26,8, Melbourne City
+,AUS,10,MF,Ajdin Hrustic,,5 July 1996  26,20,3, Hellas Verona
+,AUS,11,FW,Awer Mabil,,15 September 1995  27,29,8, Cádiz
+,AUS,12,GK,Andrew Redmayne,,13 January 1989  33,4,0, Sydney FC
+,AUS,13,MF,Aaron Mooy,,15 September 1990  32,53,7, Celtic
+,AUS,14,MF,Riley McGree,,2 November 1998  24,11,1, Middlesbrough
+,AUS,15,FW,Mitchell Duke,,18 January 1991  31,21,8, Fagiano Okayama
+,AUS,16,DF,Aziz Behich,,16 December 1990  31,53,2, Dundee United
+,AUS,17,MF,Cameron Devlin,,7 June 1998  24,1,0, Heart of Midlothian
+,AUS,18,GK,Danny Vukovic,,27 March 1985  37,4,0, Central Coast Mariners
+,AUS,19,DF,Harry Souttar,,22 October 1998  24,10,6, Stoke City
+,AUS,20,DF,Thomas Deng,,20 March 1997  25,2,0, Albirex Niigata
+,AUS,21,FW,Garang Kuol,,15 September 2004  18,1,0, Central Coast Mariners
+,AUS,22,MF,Jackson Irvine,,7 March 1993  29,49,7, FC St. Pauli
+,AUS,23,FW,Craig Goodwin,,16 December 1991  30,10,1, Adelaide United
+,AUS,24,DF,Joel King,,30 October 2000  22,4,0, OB
+,AUS,25,FW,Jason Cummings,,1 August 1995  27,1,1, Central Coast Mariners
+,AUS,26,MF,Keanu Baccus,,7 June 1998  24,1,0, St Mirren
+,ESP,1,GK,Robert Sánchez,,18 November 1997  25,1,0, Brighton & Hove Albion
+,ESP,2,DF,César Azpilicueta,,28 August 1989  33,41,1, Chelsea
+,ESP,3,DF,Eric García,,9 January 2001  21,18,0, Barcelona
+,ESP,4,DF,Pau Torres,,16 January 1997  25,21,1, Villarreal
+,ESP,5,MF,Sergio Busquets ,,16 July 1988  34,139,2, Barcelona
+,ESP,6,MF,Marcos Llorente,,30 January 1995  27,17,0, Atlético Madrid
+,ESP,7,FW,Álvaro Morata,,23 October 1992  30,57,27, Atlético Madrid
+,ESP,8,MF,Koke,,8 January 1992  30,67,0, Atlético Madrid
+,ESP,9,MF,Gavi,,5 August 2004  18,12,1, Barcelona
+,ESP,10,FW,Marco Asensio,,21 January 1996  26,29,1, Real Madrid
+,ESP,11,FW,Ferran Torres,,29 February 2000  22,30,13, Barcelona
+,ESP,12,FW,Nico Williams,,12 July 2002  20,2,0, Athletic Bilbao
+,ESP,13,GK,David Raya,,15 September 1995  27,1,0, Brentford
+,ESP,14,DF,José Gayà,,25 May 1995  27,18,3, Valencia
+,ESP,15,DF,Hugo Guillamón,,31 January 2000  22,3,1, Valencia
+,ESP,16,MF,Rodri,,22 June 1996  26,34,1, Manchester City
+,ESP,17,FW,Yeremy Pino,,20 October 2002  20,6,1, Villarreal
+,ESP,18,DF,Jordi Alba,,21 March 1989  33,86,9, Barcelona
+,ESP,19,MF,Carlos Soler,,2 January 1997  25,11,3, Paris Saint-Germain
+,ESP,20,DF,Dani Carvajal,,11 January 1992  30,30,0, Real Madrid
+,ESP,21,FW,Dani Olmo,,7 May 1998  24,24,4, RB Leipzig
+,ESP,22,FW,Pablo Sarabia,,11 May 1992  30,24,9, Paris Saint-Germain
+,ESP,23,GK,Unai Simón,,11 June 1997  25,27,0, Athletic Bilbao
+,ESP,24,DF,Aymeric Laporte,,27 May 1994  28,15,1, Manchester City
+,ESP,25,FW,Ansu Fati,,31 October 2002  20,4,1, Barcelona
+,ESP,26,MF,Pedri,,25 November 2002  19,14,0, Barcelona
+,GER,1,GK,Manuel Neuer ,,27 March 1986  36,113,0, Bayern Munich
+,GER,2,DF,Antonio Rüdiger,,3 March 1993  29,54,2, Real Madrid
+,GER,3,DF,David Raum,,22 April 1998  24,11,0, RB Leipzig
+,GER,4,DF,Matthias Ginter,,19 January 1994  28,46,2, SC Freiburg
+,GER,5,DF,Thilo Kehrer,,21 September 1996  26,22,0, West Ham United
+,GER,6,MF,Joshua Kimmich,,8 February 1995  27,70,5, Bayern Munich
+,GER,7,FW,Kai Havertz,,11 June 1999  23,30,10, Chelsea
+,GER,8,MF,Leon Goretzka,,6 February 1995  27,44,14, Bayern Munich
+,GER,9,FW,Niclas Füllkrug,,9 February 1993  29,0,0, Werder Bremen
+,GER,10,FW,Serge Gnabry,,14 July 1995  27,36,20, Bayern Munich
+,GER,11,MF,Mario Götze,,3 June 1992  30,63,17, Eintracht Frankfurt
+,GER,12,GK,Kevin Trapp,,8 July 1990  32,6,0, Eintracht Frankfurt
+,GER,13,MF,Thomas Müller,,13 September 1989  33,118,44, Bayern Munich
+,GER,14,MF,Jamal Musiala,,26 February 2003  19,17,1, Bayern Munich
+,GER,15,DF,Niklas Süle,,3 September 1995  27,42,1, Borussia Dortmund
+,GER,16,DF,Lukas Klostermann,,3 June 1996  26,18,0, RB Leipzig
+,GER,17,MF,Julian Brandt,,2 May 1996  26,38,3, Borussia Dortmund
+,GER,18,MF,Jonas Hofmann,,14 July 1992  30,16,4, Borussia Mönchengladbach
+,GER,19,MF,Leroy Sané,,11 January 1996  26,47,11, Bayern Munich
+,GER,20,DF,Christian Günter,,28 February 1993  29,6,0, SC Freiburg
+,GER,21,MF,İlkay Gündoğan,,24 October 1990  32,62,16, Manchester City
+,GER,22,GK,Marc-André ter Stegen,,30 April 1992  30,30,0, Barcelona
+,GER,23,DF,Nico Schlotterbeck,,1 December 1999  22,5,0, Borussia Dortmund
+,GER,24,FW,Karim Adeyemi,,18 January 2002  20,4,1, Borussia Dortmund
+,GER,25,DF,Armel Bella-Kotchap,,11 December 2001  20,1,0, Southampton
+,GER,26,FW,Youssoufa Moukoko,,20 November 2004  18,0,0, Borussia Dortmund
+,JPN,1,GK,Eiji Kawashima,,20 March 1983  39,95,0, Strasbourg
+,JPN,2,DF,Miki Yamane,,22 December 1993  28,14,2, Kawasaki Frontale
+,JPN,3,DF,Shogo Taniguchi,,15 July 1991  31,13,0, Kawasaki Frontale
+,JPN,4,DF,Ko Itakura,,27 January 1997  25,12,1, Borussia Mönchengladbach
+,JPN,5,DF,Yuto Nagatomo,,12 September 1986  36,137,4, FC Tokyo
+,JPN,6,MF,Wataru Endo,,9 February 1993  29,43,2, VfB Stuttgart
+,JPN,7,MF,Gaku Shibasaki,,28 May 1992  30,59,3, Leganés
+,JPN,8,MF,Ritsu Dōan,,16 June 1998  24,28,3, SC Freiburg
+,JPN,9,MF,Kaoru Mitoma,,20 May 1997  25,9,5, Brighton & Hove Albion
+,JPN,10,MF,Takumi Minamino,,16 January 1995  27,43,17, Monaco
+,JPN,11,MF,Takefusa Kubo,,4 June 2001  21,19,1, Real Sociedad
+,JPN,12,GK,Shūichi Gonda,,3 March 1989  33,33,0, Shimizu S-Pulse
+,JPN,13,MF,Hidemasa Morita,,10 May 1995  27,17,2, Sporting CP
+,JPN,14,MF,Junya Ito,,9 March 1993  29,38,9, Reims
+,JPN,15,MF,Daichi Kamada,,5 August 1996  26,21,6, Eintracht Frankfurt
+,JPN,16,DF,Takehiro Tomiyasu,,5 November 1998  24,29,1, Arsenal
+,JPN,17,MF,Ao Tanaka,,10 September 1998  24,14,2, Fortuna Düsseldorf
+,JPN,18,FW,Takuma Asano,,10 November 1994  28,36,7, VfL Bochum
+,JPN,19,DF,Hiroki Sakai,,12 April 1990  32,71,1, Urawa Red Diamonds
+,JPN,20,FW,Shuto Machino,,30 September 1999  23,4,3, Shonan Bellmare
+,JPN,21,FW,Ayase Ueda,,28 August 1998  24,10,0, Cercle Brugge
+,JPN,22,DF,Maya Yoshida ,,24 August 1988  34,121,12,Schalke 04
+,JPN,23,GK,Daniel Schmidt,,3 February 1992  30,11,0, Sint-Truiden
+,JPN,24,MF,Yuki Soma,,25 February 1997  25,7,3, Nagoya Grampus
+,JPN,25,FW,Daizen Maeda,,20 October 1997  25,8,1, Celtic
+,JPN,26,DF,Hiroki Ito,,12 May 1999  23,5,0, VfB Stuttgart
+,CRC,1,GK,Keylor Navas,,15 December 1986  35,107,0, Paris Saint-Germain
+,CRC,2,MF,Daniel Chacón,,11 April 2001  21,7,0, Cartaginés
+,CRC,3,DF,Juan Pablo Vargas,,6 June 1995  27,11,1, Millonarios
+,CRC,4,DF,Keysher Fuller,,12 July 1994  28,29,2, Herediano
+,CRC,5,MF,Celso Borges,,27 May 1988  34,154,27, Alajuelense
+,CRC,6,DF,Óscar Duarte,,3 June 1989  33,70,3, Al-Wehda
+,CRC,7,FW,Anthony Contreras,,29 January 2000  22,8,2, Herediano
+,CRC,8,DF,Bryan Oviedo,,18 February 1990  32,74,2, Real Salt Lake
+,CRC,9,MF,Jewison Bennette,,15 June 2004  18,7,2, Sunderland
+,CRC,10,MF,Bryan Ruiz ,,18 August 1985  37,144,29, Alajuelense
+,CRC,11,FW,Johan Venegas,,27 November 1988  33,80,11, Alajuelense
+,CRC,12,FW,Joel Campbell,,26 June 1992  30,118,25, León
+,CRC,13,MF,Gerson Torres,,28 August 1997  25,13,1, Herediano
+,CRC,14,MF,Youstin Salas,,17 June 1996  26,3,0, Saprissa
+,CRC,15,DF,Francisco Calvo,,8 July 1992  30,75,8, Konyaspor
+,CRC,16,DF,Carlos Martínez,,30 March 1999  23,5,0, San Carlos
+,CRC,17,MF,Yeltsin Tejeda,,17 March 1992  30,73,0, Herediano
+,CRC,18,GK,Esteban Alvarado,,28 April 1989  33,24,0, Herediano
+,CRC,19,DF,Kendall Waston,,1 January 1988  34,61,7, Saprissa
+,CRC,20,MF,Brandon Aguilera,,28 June 2003  19,2,0, Guanacasteca
+,CRC,21,MF,Douglas López,,21 September 1998  24,1,0, Herediano
+,CRC,22,DF,Rónald Matarrita,,9 July 1994  28,52,3, FC Cincinnati
+,CRC,23,GK,Patrick Sequeira,,1 March 1999  23,1,0, Lugo
+,CRC,24,MF,Roan Wilson,,1 May 2002  20,2,0, Municipal Grecia
+,CRC,25,MF,Anthony Hernández,,11 October 2001  21,1,0, Puntarenas
+,CRC,26,MF,Álvaro Zamora,,9 March 2002  20,1,0, Saprissa
+,BEL,1,GK,Thibaut Courtois,,11 May 1992  30,96,0, Real Madrid
+,BEL,2,DF,Toby Alderweireld,,2 March 1989  33,123,5, Antwerp
+,BEL,3,DF,Arthur Theate,,25 May 2000  22,3,0, Rennes
+,BEL,4,DF,Wout Faes,,3 April 1998  24,1,0, Leicester City
+,BEL,5,DF,Jan Vertonghen,,24 April 1987  35,141,9, Anderlecht
+,BEL,6,MF,Axel Witsel,,12 January 1989  33,126,12, Atlético Madrid
+,BEL,7,MF,Kevin De Bruyne,,28 June 1991  31,93,25, Manchester City
+,BEL,8,MF,Youri Tielemans,,7 May 1997  25,54,5, Leicester City
+,BEL,9,FW,Romelu Lukaku,,13 May 1993  29,102,68, Internazionale
+,BEL,10,FW,Eden Hazard ,,7 January 1991  31,122,33, Real Madrid
+,BEL,11,FW,Yannick Carrasco,,4 September 1993  29,59,8, Atlético Madrid
+,BEL,12,GK,Simon Mignolet,,6 March 1988  34,35,0, Club Brugge
+,BEL,13,GK,Koen Casteels,,25 June 1992  30,4,0, VfL Wolfsburg
+,BEL,14,FW,Dries Mertens,,6 May 1987  35,106,21, Galatasaray
+,BEL,15,MF,Thomas Meunier,,12 September 1991  31,58,8, Borussia Dortmund
+,BEL,16,MF,Thorgan Hazard,,29 March 1993  29,45,9, Borussia Dortmund
+,BEL,17,FW,Leandro Trossard,,4 December 1994  27,21,5, Brighton & Hove Albion
+,BEL,18,MF,Amadou Onana,,16 August 2001  21,2,0, Everton
+,BEL,19,DF,Leander Dendoncker,,15 April 1995  27,29,1, Aston Villa
+,BEL,20,MF,Hans Vanaken,,24 August 1992  30,22,5, Club Brugge
+,BEL,21,MF,Timothy Castagne,,5 December 1995  26,25,2, Leicester City
+,BEL,22,FW,Charles De Ketelaere,,10 March 2001  21,10,1, Milan
+,BEL,23,FW,Michy Batshuayi,,2 October 1993  29,47,26, Fenerbahçe
+,BEL,24,FW,Loïs Openda,,16 February 2000  22,4,1, Lens
+,BEL,25,FW,Jérémy Doku,,27 May 2002  20,10,2, Rennes
+,BEL,26,DF,Zeno Debast,,24 October 2003  19,2,0, Anderlecht
+,CAN,1,GK,Dayne St. Clair,,9 May 1997  25,2,0, Minnesota United FC
+,CAN,2,DF,Alistair Johnston,,8 October 1998  24,29,1, CF Montréal
+,CAN,3,DF,Sam Adekugbe,,16 January 1995  27,33,1, Hatayspor
+,CAN,4,DF,Kamal Miller,,16 May 1997  25,28,0, CF Montréal
+,CAN,5,DF,Steven Vitória,,11 January 1987  35,34,3, Chaves
+,CAN,6,MF,Samuel Piette,,12 November 1994  28,65,0, CF Montréal
+,CAN,7,MF,Stephen Eustáquio,,21 December 1996  25,26,3, Porto
+,CAN,8,MF,Liam Fraser,,13 February 1998  24,15,0, Deinze
+,CAN,9,FW,Lucas Cavallini,,28 December 1992  29,33,17, Vancouver Whitecaps FC
+,CAN,10,MF,Junior Hoilett,,5 June 1990  32,49,14, Reading
+,CAN,11,FW,Tajon Buchanan,,8 February 1999  23,25,4, Club Brugge
+,CAN,12,FW,Iké Ugbo,,21 September 1998  24,8,0, Troyes
+,CAN,13,MF,Atiba Hutchinson ,,8 February 1983  39,97,9, Beşiktaş
+,CAN,14,MF,Mark-Anthony Kaye,,2 December 1994  27,37,2, Toronto FC
+,CAN,15,MF,Ismaël Koné,,16 June 2002  20,5,1, CF Montréal
+,CAN,16,GK,James Pantemis,,21 February 1997  25,0,0, CF Montréal
+,CAN,17,FW,Cyle Larin,,17 April 1995  27,54,25, Club Brugge
+,CAN,18,GK,Milan Borjan,,23 October 1987  35,67,0, Red Star Belgrade
+,CAN,19,FW,Alphonso Davies,,2 November 2000  22,34,12, Bayern Munich
+,CAN,20,FW,Jonathan David,,14 January 2000  22,34,22, Lille
+,CAN,21,MF,Jonathan Osorio,,12 June 1992  30,56,7, Toronto FC
+,CAN,22,DF,Richie Laryea,,7 January 1995  27,33,1, Toronto FC
+,CAN,23,MF,Liam Millar,,27 September 1999  23,16,0, Basel
+,CAN,24,MF,David Wotherspoon,,16 January 1990  32,10,1, St Johnstone
+,CAN,25,DF,Derek Cornelius,,25 November 1997  24,14,0, Panetolikos
+,CAN,26,DF,Joel Waterman,,24 January 1996  26,1,0, CF Montréal
+,MAR,1,GK,Yassine Bounou,,5 April 1991  31,45,0, Sevilla
+,MAR,2,DF,Achraf Hakimi,,4 November 1998  24,53,8, Paris Saint-Germain
+,MAR,3,DF,Noussair Mazraoui,,14 November 1997  25,14,2, Bayern Munich
+,MAR,4,MF,Sofyan Amrabat,,21 August 1996  26,38,0, Fiorentina
+,MAR,5,DF,Nayef Aguerd,,30 March 1996  26,21,1, West Ham United
+,MAR,6,DF,Romain Saïss ,,26 March 1990  32,65,1, Beşiktaş
+,MAR,7,MF,Hakim Ziyech,,19 March 1993  29,42,17, Chelsea
+,MAR,8,MF,Azzedine Ounahi,,19 April 2000  22,9,2, Angers
+,MAR,9,FW,Abderrazak Hamdallah,,17 December 1990  31,17,6, Al-Ittihad
+,MAR,10,MF,Amine Harit,,18 June 1997  25,16,0, Marseille
+,MAR,11,FW,Abdelhamid Sabiri,,28 November 1996  25,2,1, Sampdoria
+,MAR,12,GK,Munir Mohamedi,,10 May 1989  33,43,0, Al-Wehda
+,MAR,13,MF,Ilias Chair,,30 October 1997  25,10,1, Queens Park Rangers
+,MAR,14,MF,Zakaria Aboukhlal,,18 February 2000  22,12,2, Toulouse
+,MAR,15,MF,Selim Amallah,,15 November 1996  26,23,4, Standard Liège
+,MAR,16,FW,Abde Ezzalzouli,,17 December 2001  20,2,0, Osasuna
+,MAR,17,MF,Sofiane Boufal,,17 September 1993  29,31,5, Angers
+,MAR,18,DF,Jawad El Yamiq,,29 February 1992  30,11,2, Valladolid
+,MAR,19,FW,Youssef En-Nesyri,,1 June 1997  25,49,14, Sevilla
+,MAR,20,DF,Achraf Dari,,6 May 1999  23,4,0, Brest
+,MAR,21,FW,Walid Cheddira,,22 January 1998  24,2,0, Bari
+,MAR,22,GK,Ahmed Reda Tagnaouti,,5 April 1996  26,3,0, Wydad AC
+,MAR,23,MF,Bilal El Khannous,,10 May 2004  18,0,0, Genk
+,MAR,24,DF,Badr Benoun,,30 September 1993  29,3,0, Qatar SC
+,MAR,25,DF,Yahia Attiyat Allah,,2 March 1995  27,1,0, Wydad AC
+,MAR,26,MF,Yahya Jabrane,,18 June 1991  31,4,0, Wydad AC
+,CRO,1,GK,Dominik Livaković,,9 January 1995  27,33,0, Dinamo Zagreb
+,CRO,2,DF,Josip Stanišić,,2 April 2000  22,6,0, Bayern Munich
+,CRO,3,DF,Borna Barišić,,10 November 1992  30,27,1, Rangers
+,CRO,4,FW,Ivan Perišić,,2 February 1989  33,115,32, Tottenham Hotspur
+,CRO,5,DF,Martin Erlić,,24 January 1998  24,3,0, Sassuolo
+,CRO,6,DF,Dejan Lovren,,5 July 1989  33,71,5, Zenit Saint Petersburg
+,CRO,7,MF,Lovro Majer,,17 January 1998  24,10,3, Rennes
+,CRO,8,MF,Mateo Kovačić,,6 May 1994  28,83,3, Chelsea
+,CRO,9,FW,Andrej Kramarić,,19 June 1991  31,73,19,1899 Hoffenheim
+,CRO,10,MF,Luka Modrić ,,9 September 1985  37,154,23, Real Madrid
+,CRO,11,MF,Marcelo Brozović,,16 November 1992  30,76,7, Internazionale
+,CRO,12,GK,Ivo Grbić,,18 January 1996  26,2,0, Atlético Madrid
+,CRO,13,MF,Nikola Vlašić,,4 October 1997  25,41,7, Torino
+,CRO,14,FW,Marko Livaja,,26 August 1993  29,14,3, Hajduk Split
+,CRO,15,MF,Mario Pašalić,,9 February 1995  27,42,7, Atalanta
+,CRO,16,FW,Bruno Petković,,16 September 1994  28,22,6, Dinamo Zagreb
+,CRO,17,FW,Ante Budimir,,22 July 1991  31,15,1, Osasuna
+,CRO,18,FW,Mislav Oršić,,29 December 1992  29,20,1, Dinamo Zagreb
+,CRO,19,DF,Borna Sosa,,21 January 1998  24,8,1, VfB Stuttgart
+,CRO,20,DF,Joško Gvardiol,,23 January 2002  20,12,1, RB Leipzig
+,CRO,21,DF,Domagoj Vida,,29 April 1989  33,99,4, AEK Athens
+,CRO,22,DF,Josip Juranović,,16 August 1995  27,21,0, Celtic
+,CRO,23,GK,Ivica Ivušić,,1 February 1995  27,5,0, Osijek
+,CRO,24,DF,Josip Šutalo,,28 February 2000  22,3,0, Dinamo Zagreb
+,CRO,25,MF,Luka Sučić,,8 September 2002  20,3,0, Red Bull Salzburg
+,CRO,26,MF,Kristijan Jakić,,14 May 1997  25,4,0, Eintracht Frankfurt
+,BRA,1,GK,Alisson,,2 October 1992  30,57,0, Liverpool
+,BRA,2,DF,Danilo,,15 July 1991  31,46,1, Juventus
+,BRA,3,DF,Thiago Silva ,,22 September 1984  38,109,7, Chelsea
+,BRA,4,DF,Marquinhos,,14 May 1994  28,71,5, Paris Saint-Germain
+,BRA,5,MF,Casemiro,,23 February 1992  30,65,5, Manchester United
+,BRA,6,DF,Alex Sandro,,26 January 1991  31,37,2, Juventus
+,BRA,7,MF,Lucas Paquetá,,27 August 1997  25,35,7, West Ham United
+,BRA,8,MF,Fred,,5 March 1993  29,28,0, Manchester United
+,BRA,9,FW,Richarlison,,10 May 1997  25,38,17, Tottenham Hotspur
+,BRA,10,FW,Neymar,,5 February 1992  30,121,75, Paris Saint-Germain
+,BRA,11,FW,Raphinha,,14 December 1996  25,11,5, Barcelona
+,BRA,12,GK,Weverton,,13 December 1987  34,8,0, Palmeiras
+,BRA,13,DF,Dani Alves,,6 May 1983  39,124,8, UNAM
+,BRA,14,DF,Éder Militão,,18 January 1998  24,23,1, Real Madrid
+,BRA,15,MF,Fabinho,,23 October 1993  29,28,0, Liverpool
+,BRA,16,DF,Alex Telles,,15 December 1992  29,8,0, Sevilla
+,BRA,17,MF,Bruno Guimarães,,16 November 1997  25,8,1, Newcastle United
+,BRA,18,FW,Gabriel Jesus,,3 April 1997  25,56,19, Arsenal
+,BRA,19,FW,Antony,,24 February 2000  22,11,2, Manchester United
+,BRA,20,FW,Vinícius Júnior,,12 July 2000  22,16,1, Real Madrid
+,BRA,21,FW,Rodrygo,,9 January 2001  21,5,1, Real Madrid
+,BRA,22,MF,Éverton Ribeiro,,10 April 1989  33,21,3, Flamengo
+,BRA,23,GK,Ederson,,17 August 1993  29,18,0, Manchester City
+,BRA,24,DF,Bremer,,18 March 1997  25,1,0, Juventus
+,BRA,25,FW,Pedro,,20 June 1997  25,2,1, Flamengo
+,BRA,26,FW,Gabriel Martinelli,,18 June 2001  21,3,0, Arsenal
+,SRB,1,GK,Marko Dmitrović,,24 January 1992  30,19,0, Sevilla
+,SRB,2,DF,Strahinja Pavlović,,24 May 2001  21,21,1, Red Bull Salzburg
+,SRB,3,DF,Strahinja Eraković,,22 January 2001  21,1,0, Red Star Belgrade
+,SRB,4,DF,Nikola Milenković,,12 October 1997  25,37,3, Fiorentina
+,SRB,5,DF,Miloš Veljković,,26 September 1995  27,21,0, Werder Bremen
+,SRB,6,MF,Nemanja Maksimović,,26 January 1995  27,39,0, Getafe
+,SRB,7,FW,Nemanja Radonjić,,15 February 1996  26,36,5, Torino
+,SRB,8,MF,Nemanja Gudelj,,16 November 1991  31,48,1, Sevilla
+,SRB,9,FW,Aleksandar Mitrović,,16 September 1994  28,76,50, Fulham
+,SRB,10,FW,Dušan Tadić ,,20 November 1988  34,90,18, Ajax
+,SRB,11,FW,Luka Jović,,23 December 1997  24,28,9, Fiorentina
+,SRB,12,GK,Predrag Rajković,,31 October 1995  27,28,0, Mallorca
+,SRB,13,DF,Stefan Mitrović,,22 May 1990  32,34,0, Getafe
+,SRB,14,MF,Andrija Živković,,11 July 1996  26,28,1, PAOK
+,SRB,15,DF,Srđan Babić,,22 April 1996  26,2,0, Almería
+,SRB,16,MF,Saša Lukić,,13 August 1996  26,32,2, Torino
+,SRB,17,MF,Filip Kostić,,1 November 1992  30,50,3, Juventus
+,SRB,18,FW,Dušan Vlahović,,28 January 2000  22,16,8, Juventus
+,SRB,19,MF,Uroš Račić,,17 March 1998  24,9,0, Braga
+,SRB,20,MF,Sergej Milinković-Savić,,27 February 1995  27,35,6, Lazio
+,SRB,21,FW,Filip Đuričić,,30 January 1992  30,36,4, Sampdoria
+,SRB,22,MF,Darko Lazović,,15 September 1990  32,25,0, Hellas Verona
+,SRB,23,GK,Vanja Milinković-Savić,,20 February 1997  25,6,0, Torino
+,SRB,24,MF,Ivan Ilić,,17 March 2001  21,5,0, Hellas Verona
+,SRB,25,DF,Filip Mladenović,,15 August 1991  31,19,1, Legia Warsaw
+,SRB,26,MF,Marko Grujić,,13 April 1996  26,17,0, Porto
+,SUI,1,GK,Yann Sommer,,17 December 1988  33,76,0, Borussia Mönchengladbach
+,SUI,2,DF,Edimilson Fernandes,,15 April 1996  26,22,2,Mainz 05
+,SUI,3,DF,Silvan Widmer,,5 March 1993  29,33,2,Mainz 05
+,SUI,4,DF,Nico Elvedi,,30 September 1996  26,40,1, Borussia Mönchengladbach
+,SUI,5,DF,Manuel Akanji,,19 July 1995  27,42,1, Manchester City
+,SUI,6,MF,Denis Zakaria,,20 November 1996  26,42,3, Chelsea
+,SUI,7,FW,Breel Embolo,,14 February 1997  25,58,11, Monaco
+,SUI,8,MF,Remo Freuler,,15 April 1992  30,48,5, Nottingham Forest
+,SUI,9,FW,Haris Seferovic,,22 February 1992  30,88,25, Galatasaray
+,SUI,10,MF,Granit Xhaka ,,27 September 1992  30,106,12, Arsenal
+,SUI,11,DF,Renato Steffen,,3 November 1991  31,27,1, Lugano
+,SUI,12,GK,Jonas Omlin,,10 January 1994  28,4,0, Montpellier
+,SUI,13,DF,Ricardo Rodriguez,,25 August 1992  30,100,9, Torino
+,SUI,14,MF,Michel Aebischer,,6 January 1997  25,11,0, Bologna
+,SUI,15,MF,Djibril Sow,,6 February 1997  25,32,0, Eintracht Frankfurt
+,SUI,16,MF,Christian Fassnacht,,11 November 1993  29,15,4, Young Boys
+,SUI,17,FW,Ruben Vargas,,5 August 1998  24,26,4, FC Augsburg
+,SUI,18,DF,Eray Cömert,,4 February 1998  24,9,0, Valencia
+,SUI,19,FW,Noah Okafor,,24 May 2000  22,8,2, Red Bull Salzburg
+,SUI,20,MF,Fabian Frei,,8 January 1989  33,22,3, Basel
+,SUI,21,GK,Gregor Kobel,,6 December 1997  24,3,0, Borussia Dortmund
+,SUI,22,DF,Fabian Schär,,20 December 1991  30,72,8, Newcastle United
+,SUI,23,MF,Xherdan Shaqiri,,10 October 1991  31,108,26, Chicago Fire FC
+,SUI,24,GK,Philipp Köhn,,2 April 1998  24,0,0, Red Bull Salzburg
+,SUI,25,MF,Fabian Rieder,,16 February 2002  20,0,0, Young Boys
+,SUI,26,MF,Ardon Jashari,,30 July 2002  20,1,0, Luzern
+,CMR,1,GK,Simon Ngapandouetnbu,,12 April 2003  19,0,0, Marseille
+,CMR,2,DF,Jerome Ngom Mbekeli,,30 September 1998  24,0,0, Colombe Sportive
+,CMR,3,DF,Nicolas Nkoulou,,27 March 1990  32,76,2, Aris
+,CMR,4,DF,Christopher Wooh,,18 September 2001  21,1,0, Rennes
+,CMR,5,MF,Gaël Ondoua,,4 November 1995  27,3,0,Hannover 96
+,CMR,6,FW,Moumi Ngamaleu,,9 July 1994  28,41,4, Dynamo Moscow
+,CMR,7,MF,Georges-Kévin Nkoudou,,13 February 1995  27,1,0, Beşiktaş
+,CMR,8,MF,André-Frank Zambo Anguissa,,16 November 1995  27,42,5, Napoli
+,CMR,9,FW,Jean-Pierre Nsame,,1 May 1993  29,3,0, Young Boys
+,CMR,10,FW,Vincent Aboubakar ,,22 January 1992  30,88,33, Al-Nassr
+,CMR,11,FW,Christian Bassogog,,18 October 1995  27,42,7, Shanghai Shenhua
+,CMR,12,FW,Karl Toko Ekambi,,14 September 1992  30,50,12, Lyon
+,CMR,13,FW,Eric Maxim Choupo-Moting,,23 March 1989  33,68,18, Bayern Munich
+,CMR,14,MF,Samuel Gouet,,14 December 1997  24,21,0, Mechelen
+,CMR,15,MF,Pierre Kunde,,26 July 1995  27,30,1, Olympiacos
+,CMR,16,GK,Devis Epassy,,2 February 1993  29,5,0, Abha
+,CMR,17,DF,Olivier Mbaizo,,15 August 1997  25,11,0, Philadelphia Union
+,CMR,18,MF,Martin Hongla,,16 March 1998  24,17,0, Hellas Verona
+,CMR,19,DF,Collins Fai,,13 August 1992  30,50,0, Al-Tai
+,CMR,20,FW,Bryan Mbeumo,,7 August 1999  23,1,0, Brentford
+,CMR,21,DF,Jean-Charles Castelletto,,26 January 1995  27,12,0, Nantes
+,CMR,22,MF,Olivier Ntcham,,9 February 1996  26,2,0, Swansea City
+,CMR,23,GK,André Onana,,2 April 1996  26,31,0, Internazionale
+,CMR,24,DF,Enzo Ebosse,,11 March 1999  23,1,0, Udinese
+,CMR,25,DF,Nouhou Tolo,,23 June 1997  25,16,0, Seattle Sounders FC
+,CMR,26,MF,Souaibou Marou,,3 December 2000  21,0,0, Coton Sport
+,POR,1,GK,Rui Patrício,,15 February 1988  34,104,0, Roma
+,POR,2,DF,Diogo Dalot,,18 March 1999  23,6,2, Manchester United
+,POR,3,DF,Pepe,,26 February 1983  39,128,7, Porto
+,POR,4,DF,Rúben Dias,,14 May 1997  25,39,2, Manchester City
+,POR,5,DF,Raphaël Guerreiro,,22 December 1993  28,56,3, Borussia Dortmund
+,POR,6,MF,João Palhinha,,9 July 1995  27,15,2, Fulham
+,POR,7,FW,Cristiano Ronaldo ,,5 February 1985  37,191,117, Manchester United
+,POR,8,MF,Bruno Fernandes,,8 September 1994  28,48,9, Manchester United
+,POR,9,FW,André Silva,,6 November 1995  27,51,19, RB Leipzig
+,POR,10,FW,Bernardo Silva,,10 August 1994  28,72,8, Manchester City
+,POR,11,FW,João Félix,,10 November 1999  23,23,3, Atlético Madrid
+,POR,12,GK,José Sá,,17 January 1993  29,0,0, Wolverhampton Wanderers
+,POR,13,DF,Danilo Pereira,,9 September 1991  31,63,2, Paris Saint-Germain
+,POR,14,MF,William Carvalho,,7 April 1992  30,75,5, Real Betis
+,POR,15,FW,Rafael Leão,,10 June 1999  23,11,0, Milan
+,POR,16,MF,Vitinha,,13 February 2000  22,4,0, Paris Saint-Germain
+,POR,17,MF,João Mário,,19 January 1993  29,52,2, Benfica
+,POR,18,MF,Rúben Neves,,13 March 1997  25,32,0, Wolverhampton Wanderers
+,POR,19,DF,Nuno Mendes,,19 June 2002  20,16,0, Paris Saint-Germain
+,POR,20,DF,João Cancelo,,27 May 1994  28,37,7, Manchester City
+,POR,21,FW,Ricardo Horta,,15 September 1994  28,5,1, Braga
+,POR,22,GK,Diogo Costa,,19 September 1999  23,7,0, Porto
+,POR,23,MF,Matheus Nunes,,27 August 1998  24,9,1, Wolverhampton Wanderers
+,POR,24,DF,António Silva,,30 October 2003  19,0,0, Benfica
+,POR,25,MF,Otávio,,9 February 1995  27,7,2, Porto
+,POR,26,FW,Gonçalo Ramos,,20 June 2001  21,0,0, Benfica
+,GHA,1,GK,Lawrence Ati-Zigi,,29 November 1996  25,10,0, St. Gallen
+,GHA,2,DF,Tariq Lamptey,,30 September 2000  22,1,0, Brighton & Hove Albion
+,GHA,3,DF,Denis Odoi,,27 May 1988  34,4,0, Club Brugge
+,GHA,4,DF,Mohammed Salisu,,17 April 1999  23,1,0, Southampton
+,GHA,5,MF,Thomas Partey,,13 June 1993  29,40,14, Arsenal
+,GHA,6,MF,Elisha Owusu,,7 November 1997  25,2,0, Gent
+,GHA,7,MF,Abdul Fatawu Issahaku,,8 March 2004  18,11,0, Sporting CP
+,GHA,8,MF,Daniel-Kofi Kyereh,,8 March 1996  26,12,0, SC Freiburg
+,GHA,9,FW,Jordan Ayew,,11 September 1991  31,82,20, Crystal Palace
+,GHA,10,FW,André Ayew ,,17 December 1989  32,107,23, Al-Sadd
+,GHA,11,MF,Osman Bukari,,13 December 1998  23,5,1, Red Star Belgrade
+,GHA,12,GK,Ibrahim Danlad,,2 December 2002  19,0,0, Asante Kotoko
+,GHA,13,MF,Daniel Afriyie,,26 June 2001  21,1,0, Hearts of Oak
+,GHA,14,DF,Gideon Mensah,,18 July 1998  24,10,0, Auxerre
+,GHA,15,DF,Joseph Aidoo,,29 September 1995  27,10,0, Celta Vigo
+,GHA,16,GK,Abdul Manaf Nurudeen,,8 February 1999  23,2,0, Eupen
+,GHA,17,DF,Baba Rahman,,2 July 1994  28,47,1, Reading
+,GHA,18,DF,Daniel Amartey,,21 December 1994  27,43,0, Leicester City
+,GHA,19,FW,Iñaki Williams,,15 June 1994  28,2,0, Athletic Bilbao
+,GHA,20,MF,Mohammed Kudus,,2 August 2000  22,16,4, Ajax
+,GHA,21,MF,Salis Abdul Samed,,26 March 2000  22,0,0, Lens
+,GHA,22,MF,Kamaldeen Sulemana,,15 February 2002  20,11,0, Rennes
+,GHA,23,DF,Alexander Djiku,,9 August 1994  28,18,1, Strasbourg
+,GHA,24,MF,Kamal Sowah,,9 January 2000  22,0,0, Club Brugge
+,GHA,25,FW,Antoine Semenyo,,7 January 2000  22,1,0, Bristol City
+,GHA,26,DF,Alidu Seidu,,4 June 2000  22,2,0, Clermont
+,URU,1,GK,Fernando Muslera,,16 June 1986  36,133,0, Galatasaray
+,URU,2,DF,José Giménez,,20 January 1995  27,78,8, Atlético Madrid
+,URU,3,DF,Diego Godín ,,16 February 1986  36,159,8, Vélez Sarsfield
+,URU,4,DF,Ronald Araújo,,7 March 1999  23,12,0, Barcelona
+,URU,5,MF,Matías Vecino,,24 August 1991  31,62,4, Lazio
+,URU,6,MF,Rodrigo Bentancur,,25 June 1997  25,51,1, Tottenham Hotspur
+,URU,7,MF,Nicolás de la Cruz,,1 June 1997  25,17,2, River Plate
+,URU,8,FW,Facundo Pellistri,,20 December 2001  20,7,0, Manchester United
+,URU,9,FW,Luis Suárez,,24 January 1987  35,134,68, Nacional
+,URU,10,MF,Giorgian de Arrascaeta,,1 June 1994  28,40,8, Flamengo
+,URU,11,FW,Darwin Núñez,,24 June 1999  23,13,3, Liverpool
+,URU,12,GK,Sebastián Sosa,,19 August 1986  36,1,0, Independiente
+,URU,13,DF,Guillermo Varela,,24 March 1993  29,9,0, Flamengo
+,URU,14,MF,Lucas Torreira,,11 February 1996  26,40,0, Galatasaray
+,URU,15,MF,Federico Valverde,,22 July 1998  24,44,4, Real Madrid
+,URU,16,DF,Mathías Olivera,,31 October 1997  25,8,0, Napoli
+,URU,17,DF,Matías Viña,,9 November 1997  25,26,0, Roma
+,URU,18,FW,Maxi Gómez,,14 August 1996  26,27,4, Trabzonspor
+,URU,19,DF,Sebastián Coates,,7 October 1990  32,47,1, Sporting CP
+,URU,20,FW,Facundo Torres,,13 April 2000  22,10,0, Orlando City SC
+,URU,21,FW,Edinson Cavani,,14 February 1987  35,133,58, Valencia
+,URU,22,DF,Martín Cáceres,,7 April 1987  35,115,4, LA Galaxy
+,URU,23,GK,Sergio Rochet,,23 March 1993  29,8,0, Nacional
+,URU,24,MF,Agustín Canobbio,,1 October 1998  24,3,0, Athletico Paranaense
+,URU,25,MF,Manuel Ugarte,,11 April 2001  21,6,0, Sporting CP
+,URU,26,DF,José Luis Rodríguez,,14 March 1997  25,0,0, Nacional
+,KOR,1,GK,Kim Seung-gyu,,30 September 1990  32,67,0, Al-Shabab
+,KOR,2,DF,Yoon Jong-gyu,,20 March 1998  24,4,0, FC Seoul
+,KOR,3,DF,Kim Jin-su,,13 June 1992  30,61,2, Jeonbuk Hyundai Motors
+,KOR,4,DF,Kim Min-jae,,15 November 1996  26,44,3, Napoli
+,KOR,5,MF,Jung Woo-young,,14 December 1989  32,66,3, Al-Sadd
+,KOR,6,MF,Hwang In-beom,,20 September 1996  26,37,4, Olympiacos
+,KOR,7,MF,Son Heung-min ,,8 July 1992  30,104,35, Tottenham Hotspur
+,KOR,8,MF,Paik Seung-ho,,17 March 1997  25,14,2, Jeonbuk Hyundai Motors
+,KOR,9,FW,Cho Gue-sung,,25 January 1998  24,16,4, Jeonbuk Hyundai Motors
+,KOR,10,MF,Lee Jae-sung,,10 August 1992  30,64,9,Mainz 05
+,KOR,11,MF,Hwang Hee-chan,,26 January 1996  26,49,9, Wolverhampton Wanderers
+,KOR,12,GK,Song Bum-keun,,15 October 1997  25,1,0, Jeonbuk Hyundai Motors
+,KOR,13,MF,Son Jun-ho,,12 May 1992  30,15,0, Shandong Taishan
+,KOR,14,DF,Hong Chul,,17 September 1990  32,46,1, Daegu FC
+,KOR,15,DF,Kim Moon-hwan,,1 August 1995  27,22,0, Jeonbuk Hyundai Motors
+,KOR,16,FW,Hwang Ui-jo,,28 August 1992  30,49,16, Olympiacos
+,KOR,17,MF,Na Sang-ho,,12 August 1996  26,24,2, FC Seoul
+,KOR,18,MF,Lee Kang-in,,19 February 2001  21,6,0, Mallorca
+,KOR,19,DF,Kim Young-gwon,,27 February 1990  32,96,6, Ulsan Hyundai
+,KOR,20,DF,Kwon Kyung-won,,31 January 1992  30,28,2, Gamba Osaka
+,KOR,21,GK,Jo Hyeon-woo,,25 September 1991  31,22,0, Ulsan Hyundai
+,KOR,22,MF,Kwon Chang-hoon,,30 June 1994  28,42,12, Gimcheon Sangmu
+,KOR,23,DF,Kim Tae-hwan,,24 July 1989  33,19,0, Ulsan Hyundai
+,KOR,24,DF,Cho Yu-min,,17 November 1996  26,4,0, Daejeon Hana Citizen
+,KOR,25,MF,Jeong Woo-yeong,,20 September 1999  23,9,2, SC Freiburg
+,KOR,26,MF,Song Min-kyu,,12 September 1999  23,13,1, Jeonbuk Hyundai Motors
