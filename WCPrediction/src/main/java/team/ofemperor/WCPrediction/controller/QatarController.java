@@ -5,7 +5,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import team.ofemperor.WCPrediction.dao.QatarDAO;
-import team.ofemperor.WCPrediction.dto.QatarDTO;
+import team.ofemperor.WCPrediction.dto.PlayerDTO;
+import team.ofemperor.WCPrediction.dto.ManagerDTO;
 
 import java.util.List;
 
@@ -16,7 +17,11 @@ public class QatarController {
     private QatarDAO qatarDAO;
 
     @GetMapping("/player")
-    public List<QatarDTO> getPlayerData(){
+    public List<PlayerDTO> getPlayerData(){
         return qatarDAO.getPlayerData();
+    }
+    @GetMapping("/manager")
+    public List<ManagerDTO> getManagerData(){
+        return qatarDAO.getManagerData();
     }
 }

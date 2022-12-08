@@ -1,10 +1,11 @@
 package team.ofemperor.WCPrediction.dao;
 
-import team.ofemperor.WCPrediction.dto.QatarDTO;
-import team.ofemperor.WCPrediction.dto.QpreDTO;
+import team.ofemperor.WCPrediction.dto.PlayerDTO;
+import team.ofemperor.WCPrediction.dto.ManagerDTO;
 
 import java.util.List;
 
 public interface QatarDAO {
-    List<QatarDTO> getPlayerData();
+    List<PlayerDTO> getPlayerData();
+    List<ManagerDTO> getManagerData();
 }

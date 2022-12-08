@@ -3,10 +3,22 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="team.ofemperor.WCPrediction.dao.QpreDAO">
-    <select id="getScheduleData" resultType="hashMap">
+    <select id="getGameData" resultType="hashMap">
         select
-            games.Group, Home, Away, games.Date, Home_Winrate, Away_Win_rate
+            MatchNumber, RoundNumber, games.Date, Location, HomeTeam, AwayTeam, games.Group, Result
         from
             games;
+    </select>
+    <select id="getPredictionData" resultType="hashMap">
+        select
+            *
+        from
+            prediction;
+    </select>
+    <select id="getCountryData" resultType="hashMap">
+        select
+            *
+        from
+            country;
     </select>
 </mapper>

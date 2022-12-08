@@ -1,6 +1,5 @@
-STADIUM_ID,Name,Location,Built,Capacity
-1,Ahmad Bin Ali Stadium,"Umm Al Afaei, Al Rayyan
-",2003,44740
+﻿STADIUM_ID,Name,Location,Built,Capacity
+1,Ahmad Bin Ali Stadium,"Umm Al Afaei, Al Rayyan",2003,44740
 2,Al Bayt Stadium,Al Khor,2021,60000
 3,Al Janoub Stadium,Al Wakrah,2019,40000
 4,Al Thumama Stadium,Doha,2020,40000

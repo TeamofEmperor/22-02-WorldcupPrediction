@@ -7,6 +7,13 @@
         select
             *
         from
-            players;
+            newplayers;
+    </select>
+
+    <select id="getManagerData" resultType="hashMap">
+        select
+            *
+        from
+            managers
     </select>
 </mapper>
