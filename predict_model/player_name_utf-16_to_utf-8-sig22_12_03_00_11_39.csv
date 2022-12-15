@@ -1,0 +1,831 @@
+﻿index,Full_name,Nationality,is_ovr,Overall,Potential,Age,Position,is_time,played_time
+0,Hernán Galíndez,Ecuador,0,0,0,0,0,0,0
+1,Félix Torres,Ecuador,0,0,0,0,0,0,0
+2,Piero Hincapié,Ecuador,1,78,85,20,CB,1,2430
+3,Robert Arboleda,Ecuador,0,0,0,0,0,0,0
+4,José Cifuentes,Ecuador,1,73,80,23,CDM,1,533
+5,William Pacho,Ecuador,1,67,78,20,CB,1,0
+6,Pervis Estupiñán,Ecuador,1,79,83,24,LB,1,3478
+7,Carlos Gruezo,Ecuador,1,72,75,27,CDM,1,3043
+8,Ayrton Preciado,Ecuador,0,0,0,0,0,0,0
+9,Romario Ibarra,Ecuador,0,0,0,0,0,0,0
+10,Michael Estrada,Ecuador,0,0,0,0,0,0,0
+11,Moisés Ramírez,Ecuador,1,70,81,21,GK,1,360
+12,Enner Valencia,Ecuador,1,75,75,32,ST,1,1748
+13,Xavier Arreaga,Ecuador,1,69,71,27,CB,1,1222
+14,Ángel Mena,Ecuador,0,0,0,0,0,0,0
+15,Jeremy Sarmiento,Ecuador,1,66,80,20,CAM,0,0
+16,Ángelo Preciado,Ecuador,1,69,75,24,RWB,0,0
+17,Diego Palacios,Ecuador,1,71,79,22,LWB,1,162
+18,Gonzalo Plata,Ecuador,1,77,86,21,CAM,1,1790
+19,Sebas Méndez,Ecuador,0,0,0,0,0,0,0
+20,Alan Franco,Ecuador,1,66,72,23,CAM,1,1300
+21,Alexander Domínguez,Ecuador,0,0,0,0,0,0,0
+22,Moisés Caicedo,Ecuador,1,70,82,20,CDM,1,3070
+23,Djorkaeff Reasco,Ecuador,1,66,72,23,ST,1,172
+24,Jackson Porozo,Ecuador,1,68,77,21,CB,1,270
+25,Kevin Rodríguez,Ecuador,0,0,0,0,0,0,0
+26,Remko Pasveer,Netherlands,0,0,0,0,0,0,0
+27,Jurriën Timber,Netherlands,1,80,88,21,CB,0,0
+28,Matthijs de Ligt,Netherlands,1,85,89,22,CB,1,450
+29,Virgil van Dijk,Netherlands,1,90,90,30,CB,1,540
+30,Nathan Aké,Netherlands,1,78,80,27,CB,1,1
+31,Stefan de Vrij,Netherlands,1,84,84,30,CB,1,540
+32,Steven Bergwijn,Netherlands,1,80,85,24,CAM,1,208
+33,Cody Gakpo,Netherlands,1,83,87,23,RM,1,243
+34,Luuk de Jong,Netherlands,1,79,79,31,ST,1,188
+35,Memphis Depay,Netherlands,1,85,85,28,CF,1,900
+36,Steven Berghuis,Netherlands,1,82,82,30,CAM,1,603
+37,Noa Lang,Netherlands,1,78,85,23,CAM,1,118
+38,Justin Bijlow,Netherlands,1,79,85,24,GK,1,540
+39,Davy Klaassen,Netherlands,1,79,79,29,CAM,1,771
+40,Marten de Roon,Netherlands,1,80,80,31,CB,1,96
+41,Tyrell Malacia,Netherlands,1,79,85,22,LWB,1,90
+42,Daley Blind,Netherlands,1,80,80,32,CDM,1,766
+43,Vincent Janssen,Netherlands,1,73,73,28,ST,0,0
+44,Wout Weghorst,Netherlands,1,79,79,29,ST,1,44
+45,Teun Koopmeiners,Netherlands,1,80,84,24,CM,1,68
+46,Frenkie de Jong,Netherlands,1,87,92,25,CM,1,807
+47,Denzel Dumfries,Netherlands,1,82,84,26,RWB,0,0
+48,Andries Noppert,Netherlands,1,70,73,28,GK,0,0
+49,Kenneth Taylor,Netherlands,1,73,85,20,CAM,0,0
+50,Xavi Simons,Netherlands,1,73,86,19,CAM,0,0
+51,Jeremie Frimpong,Netherlands,1,80,86,21,RM,0,0
+52,Saad Al Sheeb,Qatar,1,68,68,32,GK,1,810
+53,Ró Ró,Qatar,0,0,0,0,0,0,0
+54,Abdelkarim Hassan,Qatar,1,70,70,28,LWB,1,883
+55,Mohammed Waad,Qatar,1,65,74,22,CB,0,0
+56,Tarek Salman,Qatar,1,66,74,24,CDM,0,0
+57,Abdulaziz Hatem,Qatar,1,71,71,31,CM,1,779
+58,Ahmed Alaaeldin,Qatar,1,65,65,29,ST,1,120
+59,Ali Assadalla,Qatar,0,0,0,0,0,0,0
+60,Mohammed Muntari,Qatar,1,67,67,28,ST,1,129
+61,Hassan Al Haydos,Qatar,1,72,72,31,RW,0,0
+62,Akram Afif,Qatar,1,76,78,25,RM,1,745
+63,Karim Boudiaf,Qatar,1,72,72,31,CM,1,483
+64,Musab Kheder,Qatar,1,65,65,28,RWB,0,0
+65,Homam Ahmed,Qatar,1,68,75,22,LWB,0,0
+66,Bassam Al Rawi,Qatar,1,68,75,24,CB,1,845
+67,Boualem Khoukhi,Qatar,1,71,71,31,CB,1,974
+68,Ismaeel Mohammad,Qatar,0,0,0,0,0,0,0
+69,Khalid Muneer,Qatar,0,0,0,0,0,0,0
+70,Almoez Ali,Qatar,1,72,75,25,ST,1,1055
+71,Salem Al Hajri,Qatar,1,63,67,26,CB,0,0
+72,Yousef Hassan,Qatar,1,65,68,26,GK,1,0
+73,Meshaal Barsham,Qatar,1,65,71,24,GK,0,0
+74,Assim Madibo,Qatar,1,66,70,25,CDM,1,180
+75,Naif Al Hadhrami,Qatar,0,0,0,0,0,0,0
+76,Jassem Gaber,Qatar,0,0,0,0,0,0,0
+77,Mostafa Meshaal,Qatar,0,0,0,0,0,0,0
+78,Seny Dieng,Senegal,1,72,75,27,GK,0,0
+79,Formose Mendy,Senegal,1,65,75,21,CB,1,80
+80,Kalidou Koulibaly,Senegal,1,87,87,31,CB,1,900
+81,Pape Abou Cissé,Senegal,0,0,0,0,0,0,0
+82,Idrissa Gueye,Senegal,1,82,82,32,CDM,1,713
+83,Nampalys Mendy,Senegal,1,74,74,30,CDM,0,0
+84,Nicolas Jackson,Senegal,1,71,81,21,ST,1,0
+85,Cheikhou Kouyaté,Senegal,1,77,77,32,CDM,1,447
+86,Boulaye Dia,Senegal,1,79,83,25,ST,0,0
+87,Moussa N'Diaye,Senegal,1,62,75,20,LB,0,0
+88,Pathé Ciss,Senegal,1,73,73,28,CDM,1,64
+89,Fodé Ballo-Touré,Senegal,1,72,76,25,LWB,0,0
+90,Iliman Ndiaye,Senegal,1,70,80,22,CAM,0,0
+91,Ismail Jakobs,Senegal,0,0,0,0,0,0,0
+92,Krépin Diatta,Senegal,1,74,81,23,RM,0,0
+93,Édouard Mendy,Senegal,1,86,87,30,GK,0,0
+94,Pape Matar Sarr,Senegal,1,71,82,19,CM,1,166
+95,Ismaïla Sarr,Senegal,1,77,83,24,RM,1,802
+96,Famara Diédhiou,Senegal,1,70,70,29,ST,0,0
+97,Bamba Dieng,Senegal,1,74,80,21,ST,0,0
+98,Youssouf Sabaly,Senegal,1,76,76,29,RB,0,0
+99,Abdou Diallo,Senegal,1,77,79,26,CB,0,0
+100,Alfred Gomis,Senegal,1,77,79,28,GK,1,180
+101,Moustapha Name,Senegal,0,0,0,0,0,0,0
+102,Mamadou Loum,Senegal,1,73,78,25,CB,1,0
+103,Pape Gueye,Senegal,1,76,82,23,CDM,0,0
+104,Jordan Pickford,England,1,82,84,28,GK,1,360
+105,Kyle Walker,England,1,85,85,32,RB,1,540
+106,Luke Shaw,England,1,80,81,26,LB,1,360
+107,Declan Rice,England,1,84,87,23,CDM,0,0
+108,John Stones,England,1,83,84,28,CB,1,663
+109,Harry Maguire,England,1,81,82,29,CB,1,496
+110,Jack Grealish,England,1,84,84,26,LW,1,312
+111,Jordan Henderson,England,1,83,83,32,CM,1,196
+112,Harry Kane,England,1,89,89,28,ST,1,588
+113,Raheem Sterling,England,1,86,86,27,LW,1,559
+114,Marcus Rashford,England,1,81,85,24,ST,0,0
+115,Kieran Trippier,England,1,84,84,31,RB,1,224
+116,Nick Pope,England,1,81,81,30,GK,1,270
+117,Kalvin Phillips,England,1,81,85,26,CDM,1,540
+118,Eric Dier,England,1,80,81,28,CB,1,0
+119,Conor Coady,England,1,79,79,29,CB,1,360
+120,Bukayo Saka,England,1,82,89,20,LM,0,0
+121,Trent Alexander-Arnold,England,1,87,90,23,CM,1,193
+122,Mason Mount,England,1,84,87,23,CAM,1,535
+123,Phil Foden,England,1,85,92,22,CAM,1,500
+124,Ben White,England,1,71,74,26,CM,1,136
+125,Jude Bellingham,England,1,84,91,19,CM,1,223
+126,Aaron Ramsdale,England,1,82,86,24,GK,1,90
+127,Callum Wilson,England,1,79,79,30,ST,0,0
+128,James Maddison,England,1,82,84,25,CAM,0,0
+129,Conor Gallagher,England,1,79,86,22,CM,1,44
+130,Alireza Beiranvand,Iran,0,0,0,0,0,0,0
+131,Sadegh Moharrami,Iran,1,72,74,26,RB,1,1217
+132,Ehsan Hajsafi,Iran,1,70,70,32,LB,1,752
+133,Shojae Khalilzadeh,Iran,0,0,0,0,0,0,0
+134,Milad Mohammadi,Iran,1,72,72,28,LB,1,752
+135,Saeid Ezatolahi,Iran,0,0,0,0,0,0,0
+136,Alireza Jahanbakhsh,Iran,1,72,72,28,CF,1,1115
+137,Morteza Pouraliganji,Iran,0,0,0,0,0,0,0
+138,Mehdi Taremi,Iran,1,81,81,29,ST,1,88
+139,Karim Ansarifard,Iran,0,0,0,0,0,0,0
+140,Vahid Amiri,Iran,0,0,0,0,0,0,0
+141,Payam Niazmand,Iran,0,0,0,0,0,0,0
+142,Hossein Kanaanizadegan,Iran,0,0,0,0,0,0,0
+143,Saman Ghoddos,Iran,1,68,68,28,CAM,0,0
+144,Rouzbeh Cheshmi,Iran,0,0,0,0,0,0,0
+145,Mehdi Torabi,Iran,0,0,0,0,0,0,0
+146,Ali Gholizadeh,Iran,1,73,74,26,RM,1,0
+147,Ali Karimi,Iran,1,65,65,28,CDM,1,20
+148,Majid Hosseini,Iran,1,68,72,26,CB,1,494
+149,Sardar Azmoun,Iran,1,80,81,27,ST,1,1296
+150,Ahmad Nourollahi,Iran,0,0,0,0,0,0,0
+151,Amir Abedzadeh,Iran,1,72,73,29,GK,1,450
+152,Ramin Rezaeian,Iran,0,0,0,0,0,0,0
+153,Hossein Hosseini,Iran,0,0,0,0,0,0,0
+154,Abolfazl Jalali,Iran,0,0,0,0,0,0,0
+155,Matt Turner,USA,1,77,80,28,GK,1,720
+156,Sergiño Dest,USA,1,77,85,21,RM,0,0
+157,Walker Zimmerman,USA,1,76,77,29,CB,1,812
+158,Tyler Adams,USA,1,76,80,23,CDM,1,1023
+159,Antonee Robinson,USA,1,74,77,24,LWB,0,0
+160,Yunus Musah,USA,1,74,83,19,CAM,0,0
+161,Giovanni Reyna,USA,1,77,86,19,CAM,1,192
+162,Weston McKennie,USA,1,80,85,23,CM,1,624
+163,Jesús Ferreira,USA,0,0,0,0,0,0,0
+164,Christian Pulisic,USA,1,82,88,23,RM,1,615
+165,Brenden Aaronson,USA,1,74,81,21,CAM,1,661
+166,Ethan Horvath,USA,1,71,74,27,GK,1,0
+167,Tim Ream,USA,1,70,70,34,CB,1,90
+168,Luca de la Torre,USA,1,71,77,24,CM,1,237
+169,Aaron Long,USA,1,73,73,29,CB,1,36
+170,Jordan Morris,USA,1,71,71,27,ST,1,133
+171,Cristian Roldan,USA,1,75,75,27,CM,1,75
+172,Shaq Moore,USA,0,0,0,0,0,0,0
+173,Haji Wright,USA,1,68,74,24,ST,1,73
+174,Cameron Carter-Vickers,USA,1,74,83,24,CB,1,44
+175,Timothy Weah,USA,1,74,81,22,CAM,1,591
+176,DeAndre Yedlin,USA,1,70,70,28,RB,1,500
+177,Kellyn Acosta,USA,1,72,73,26,CM,1,671
+178,Josh Sargent,USA,1,69,74,22,ST,1,117
+179,Sean Johnson,USA,1,73,73,33,GK,1,0
+180,Joe Scally,USA,1,72,82,19,RB,0,0
+181,Wayne Hennessey,Wales,1,74,74,35,GK,1,180
+182,Chris Gunter,Wales,1,62,62,32,RWB,1,247
+183,Neco Williams,Wales,1,71,82,21,RWB,1,616
+184,Ben Davies,Wales,1,79,79,29,CB,1,540
+185,Chris Mepham,Wales,1,71,74,24,CB,1,592
+186,Joe Rodon,Wales,1,72,80,24,CB,1,720
+187,Joe Allen,Wales,1,71,71,32,CDM,1,728
+188,Harry Wilson,Wales,1,76,79,25,CAM,1,478
+189,Brennan Johnson,Wales,1,75,85,21,RM,1,135
+190,Aaron Ramsey,Wales,1,76,76,31,CM,1,511
+191,Gareth Bale,Wales,1,81,81,32,ST,1,573
+192,Danny Ward,Wales,1,75,75,29,GK,1,720
+193,Kieffer Moore,Wales,1,73,73,29,ST,0,0
+194,Connor Roberts,Wales,1,75,76,26,RB,1,640
+195,Ethan Ampadu,Wales,1,73,80,21,CDM,1,720
+196,Joe Morrell,Wales,1,67,69,25,CM,0,0
+197,Tom Lockyer,Wales,1,70,70,27,CB,1,0
+198,Jonny Williams,Wales,1,62,62,28,CAM,0,0
+199,Mark Harris,Wales,1,67,72,23,RM,1,79
+200,Daniel James,Wales,1,77,82,24,RM,1,865
+201,Adam Davies,Wales,1,70,70,29,GK,1,0
+202,Sorba Thomas,Wales,1,71,76,23,RM,0,0
+203,Dylan Levitt,Wales,1,66,80,21,CAM,1,0
+204,Ben Cabango,Wales,1,70,80,22,CB,1,0
+205,Rubin Colwill,Wales,1,67,79,20,CAM,1,57
+206,Matthew Smith,England,1,64,74,21,CM,0,0
+207,Franco Armani,Argentina,1,79,79,35,GK,1,900
+208,Juan Foyth,Argentina,1,79,84,24,CB,1,362
+209,Nicolás Tagliafico,Argentina,1,81,81,29,LB,1,1686
+210,Gonzalo Montiel,Argentina,1,79,81,25,RWB,1,1363
+211,Leandro Paredes,Argentina,1,80,80,28,CDM,1,2419
+212,Germán Pezzella,Argentina,1,77,77,31,CB,1,1045
+213,Rodrigo De Paul,Argentina,0,0,0,0,0,0,0
+214,Marcos Acuña,Argentina,1,85,85,30,LB,1,1546
+215,Julián Álvarez,Argentina,1,78,86,22,CAM,1,576
+216,Lionel Messi,Argentina,1,91,91,35,CAM,1,2852
+217,Ángel Di María,Argentina,1,84,84,34,RW,1,1551
+218,Gerónimo Rulli,Argentina,1,82,82,30,GK,1,270
+219,Cristian Romero,Argentina,1,83,88,24,CB,1,1224
+220,Exequiel Palacios,Argentina,1,78,83,23,CM,1,482
+221,Ángel Correa,Argentina,1,83,84,27,CF,1,366
+222,Thiago Almada,Argentina,1,76,87,21,CAM,1,36
+223,Papu Gómez,Argentina,0,0,0,0,0,0,0
+224,Guido Rodríguez,Argentina,1,81,82,27,CDM,1,741
+225,Nicolás Otamendi,Argentina,1,81,81,34,CB,0,0
+226,Alexis Mac Allister,Argentina,1,76,82,23,CAM,1,460
+227,Paulo Dybala,Argentina,1,86,86,28,CAM,1,182
+228,Lautaro Martínez,Argentina,1,86,90,24,ST,1,2258
+229,Emiliano Martínez,Argentina,1,84,84,29,GK,1,1880
+230,Enzo Fernández,Argentina,1,78,87,21,CM,1,99
+231,Lisandro Martínez,Argentina,1,81,86,24,CDM,1,755
+232,Nahuel Molina,Argentina,1,78,84,24,RWB,1,1857
+233,Alfredo Talavera,Mexico,1,79,79,39,GK,1,0
+234,Néstor Araujo,Mexico,0,0,0,0,0,0,0
+235,César Montes,Mexico,1,77,82,25,CB,1,889
+236,Edson Álvarez,Mexico,1,80,84,24,CB,1,821
+237,Johan Vásquez,Mexico,1,72,81,23,CB,1,360
+238,Gerardo Arteaga,Mexico,1,72,79,23,LWB,1,317
+239,Luis Romo,Mexico,1,76,77,27,CM,1,448
+240,Carlos Rodríguez,Mexico,1,76,81,25,CAM,1,684
+241,Raúl Jiménez,Mexico,1,82,82,31,ST,1,688
+242,Alexis Vega,Mexico,1,77,83,24,CAM,1,440
+243,Rogelio Funes Mori,Mexico,0,0,0,0,0,0,0
+244,Rodolfo Cota,Mexico,1,76,76,34,GK,1,0
+245,Guillermo Ochoa,Mexico,1,80,80,36,GK,1,1260
+246,Érick Gutiérrez,Mexico,1,76,77,27,CM,1,110
+247,Héctor Moreno,Mexico,1,76,76,34,CB,1,371
+248,Héctor Herrera,Mexico,1,80,80,32,CM,1,827
+249,Orbelín Pineda,Mexico,1,76,77,26,LW,1,314
+250,Andrés Guardado,Mexico,1,77,77,35,CM,1,352
+251,Jorge Sánchez,Mexico,1,76,82,24,RB,1,635
+252,Henry Martín,Mexico,1,76,76,29,ST,1,155
+253,Uriel Antuna,Mexico,1,75,77,24,RM,1,221
+254,Hirving Lozano,Mexico,1,81,81,26,RW,1,741
+255,Jesús Gallardo,Mexico,1,75,75,27,LB,1,880
+256,Luis Chávez,Mexico,0,0,0,0,0,0,0
+257,Roberto Alvarado,Mexico,0,0,0,0,0,0,0
+258,Kevin Álvarez,Mexico,0,0,0,0,0,0,0
+259,Wojciech Szczęsny,Poland,1,86,86,32,GK,1,856
+260,Matty Cash,Poland,1,79,84,24,RWB,0,0
+261,Artur Jędrzejczyk,Poland,1,69,69,34,CB,1,0
+262,Mateusz Wieteska,Poland,1,68,73,25,CB,1,0
+263,Jan Bednarek,Poland,1,76,80,26,CB,1,630
+264,Krystian Bielik,Poland,1,71,75,24,CDM,1,90
+265,Arkadiusz Milik,Poland,1,79,79,28,ST,1,290
+266,Damian Szymański,Poland,1,71,72,27,CM,1,116
+267,Robert Lewandowski,Poland,1,91,91,33,ST,1,715
+268,Grzegorz Krychowiak,Poland,1,78,78,32,CDM,1,625
+269,Kamil Grosicki,Poland,1,73,73,34,LM,1,41
+270,Łukasz Skorupski,Poland,1,76,76,31,GK,1,44
+271,Jakub Kamiński,Poland,1,71,83,20,RM,1,90
+272,Jakub Kiwior,Poland,1,71,78,22,CB,1,90
+273,Kamil Glik,Poland,1,71,71,34,CB,1,652
+274,Karol Świderski,Poland,1,74,79,25,ST,1,393
+275,Szymon Żurkowski,Poland,1,76,81,24,RM,1,0
+276,Bartosz Bereszyński,Poland,1,73,73,29,RB,1,478
+277,Sebastian Szymański,Poland,1,74,83,23,LM,1,149
+278,Piotr Zieliński,Poland,1,83,83,28,CAM,1,557
+279,Nicola Zalewski,Poland,1,74,86,20,RM,1,24
+280,Kamil Grabara,Poland,1,73,79,23,GK,1,0
+281,Krzysztof Piątek,Poland,1,75,76,27,ST,1,332
+282,Przemysław Frankowski,Poland,1,76,77,27,RM,1,255
+283,Robert Gumny,Poland,1,71,76,24,RWB,1,90
+284,Michał Skóraś,Poland,1,68,78,22,RM,1,0
+285,Mohammed Al Rubaie,Saudi Arabia,0,0,0,0,0,0,0
+286,Sultan Al Ghannam,Saudi Arabia,1,72,72,28,RB,0,0
+287,Abdullah Madu,Saudi Arabia,1,66,67,28,CB,1,877
+288,Abdulelah Al Amri,Saudi Arabia,1,71,76,25,CB,1,57
+289,Ali Al Bulaihi,Saudi Arabia,0,0,0,0,0,0,0
+290,Mohammed Al Breik,Saudi Arabia,0,0,0,0,0,0,0
+291,Salman Al Faraj,Saudi Arabia,0,0,0,0,0,0,0
+292,Abdulellah Al Malki,Saudi Arabia,0,0,0,0,0,0,0
+293,Firas Al Buraikan,Saudi Arabia,0,0,0,0,0,0,0
+294,Salem Al Dawsari,Saudi Arabia,1,77,77,30,LW,1,1512
+295,Saleh Al Shehri,Saudi Arabia,1,68,68,28,ST,1,830
+296,Saud Abdulhamid,Saudi Arabia,1,71,77,22,RB,1,483
+297,Yasser Al Shahrani,Saudi Arabia,1,73,73,30,LB,0,0
+298,Abdullah Otayf,Saudi Arabia,0,0,0,0,0,0,0
+299,Ali Al Hassan,Saudi Arabia,1,66,71,25,CDM,0,0
+300,Sami Al Najei,Saudi Arabia,0,0,0,0,0,0,0
+301,Hassan Al Tambakti,Saudi Arabia,0,0,0,0,0,0,0
+302,Nawaf Al Abed,Saudi Arabia,1,70,70,32,CAM,1,961
+303,Hattan Bahebri,Saudi Arabia,1,69,69,29,LW,0,0
+304,Abdulrahman Al Aboud,Saudi Arabia,0,0,0,0,0,0,0
+305,Mohammed Al Owais,Saudi Arabia,1,69,69,30,GK,1,1329
+306,Nawaf Al Aqidi,Saudi Arabia,1,58,67,22,GK,0,0
+307,Mohamed Kanno,Saudi Arabia,0,0,0,0,0,0,0
+308,Nasser Al Dawsari,Saudi Arabia,1,67,75,23,LM,1,515
+309,Haitham Asiri,Saudi Arabia,0,0,0,0,0,0,0
+310,Riyadh Sharahili,Saudi Arabia,1,65,65,29,CDM,1,179
+311,Mathew Ryan,Australia,1,78,78,30,GK,1,1830
+312,Miloš Degenek,Australia,1,72,73,28,CB,0,0
+313,Nathaniel Atkinson,Australia,1,68,76,23,RM,1,354
+314,Kye Rowles,Australia,1,67,73,24,CB,1,270
+315,Fran Karačić,Australia,1,69,72,26,RWB,0,0
+316,Marco Tilio,Australia,1,65,78,20,CAM,1,124
+317,Mathew Leckie,Australia,1,71,71,31,LM,1,864
+318,Bailey Wright,Australia,1,68,68,29,CB,1,360
+319,Jamie Maclaren,Australia,0,0,0,0,0,0,0
+320,Ajdin Hrustic,Australia,0,0,0,0,0,0,0
+321,Awer Mabil,Australia,1,70,70,26,LM,1,21
+322,Andrew Redmayne,Australia,1,65,65,33,GK,1,142
+323,Aaron Mooy,Australia,1,76,76,31,CM,1,794
+324,Riley McGree,Australia,1,71,78,23,LM,1,177
+325,Mitchell Duke,Australia,1,67,67,31,ST,1,641
+326,Aziz Behich,Australia,1,70,70,31,LB,1,1443
+327,Cameron Devlin,Australia,1,70,77,24,CDM,1,27
+328,Danny Vukovic,Australia,1,70,70,37,GK,0,0
+329,Harry Souttar,Australia,1,72,77,23,CB,0,0
+330,Thomas Deng,Australia,1,65,67,25,CB,1,90
+331,Garang Kuol,Australia,1,60,82,17,RM,0,0
+332,Jackson Irvine,Australia,1,70,70,29,CM,1,1632
+333,Craig Goodwin,Australia,1,75,75,30,LM,1,244
+334,Joel King,Australia,1,65,77,21,LB,1,180
+335,Jason Cummings,Australia,1,68,69,26,ST,0,0
+336,Keanu Baccus,Australia,1,68,71,24,CDM,0,0
+337,Kasper Schmeichel,Denmark,1,83,83,35,GK,1,900
+338,Joachim Andersen,Denmark,1,77,80,26,CDM,1,333
+339,Victor Nelsson,Denmark,1,75,81,23,CB,1,90
+340,Simon Kjær,Denmark,1,82,82,33,CB,1,688
+341,Joakim Mæhle,Denmark,1,76,79,25,RWB,1,760
+342,Andreas Christensen,Denmark,1,82,86,26,CB,1,810
+343,Mathias Jensen,Denmark,1,74,77,26,CM,1,202
+344,Thomas Delaney,Denmark,1,81,81,30,CDM,1,519
+345,Martin Braithwaite,Denmark,1,76,76,31,ST,1,167
+346,Christian Eriksen,Denmark,1,82,82,30,CM,1,193
+347,Andreas Skov Olsen,Denmark,1,76,83,22,LM,1,580
+348,Kasper Dolberg,Denmark,1,77,81,24,ST,1,193
+349,Rasmus Kristensen,Denmark,1,77,82,24,RWB,1,127
+350,Mikkel Damsgaard,Denmark,1,76,85,21,CAM,1,434
+351,Christian Nørgaard,Denmark,1,76,76,28,CDM,1,353
+352,Oliver Christensen,Denmark,1,70,78,23,GK,0,0
+353,Jens Stryger Larsen,Denmark,1,75,75,31,RB,1,306
+354,Daniel Wass,Denmark,1,79,79,33,CM,1,689
+355,Jonas Wind,Denmark,1,76,82,23,ST,1,261
+356,Yussuf Poulsen,Denmark,1,77,77,28,ST,1,524
+357,Andreas Cornelius,Denmark,1,75,75,29,ST,1,111
+358,Frederik Rønnow,Denmark,0,0,0,0,0,0,0
+359,Pierre-Emile Højbjerg,Denmark,1,83,85,26,CDM,1,508
+360,Robert Skov,Denmark,1,74,75,26,RW,1,44
+361,Jesper Lindstrøm,Denmark,1,75,84,22,CAM,1,57
+362,Alexander Bah,Denmark,1,78,82,24,RB,1,9
+363,Hugo Lloris,France,1,87,87,35,GK,1,720
+364,Benjamin Pavard,France,1,79,81,26,CB,1,235
+365,Axel Disasi,France,1,77,82,24,CB,0,0
+366,Raphaël Varane,France,1,84,85,29,CB,1,360
+367,Jules Koundé,France,1,84,89,23,CB,1,198
+368,Matteo Guendouzi,France,0,0,0,0,0,0,0
+369,Antoine Griezmann,France,1,83,83,31,CAM,1,652
+370,Aurélien Tchouaméni,France,1,82,89,22,CDM,1,236
+371,Olivier Giroud,France,1,82,82,35,ST,1,94
+372,Kylian Mbappé,France,1,91,95,23,ST,1,466
+373,Ousmane Dembélé,France,1,83,86,25,LM,1,117
+374,Randal Kolo Muani,France,1,78,84,23,ST,0,0
+375,Youssouf Fofana,France,1,79,84,23,CDM,0,0
+376,Adrien Rabiot,France,1,80,81,27,CM,1,567
+377,Jordan Veretout,France,1,79,79,29,CDM,1,64
+378,Steve Mandanda,France,1,79,79,37,GK,1,0
+379,William Saliba,France,1,80,87,21,CB,1,121
+380,Dayot Upamecano,France,1,81,87,23,CB,1,180
+381,Kingsley Coman,France,1,86,87,26,LM,1,312
+382,Lucas Hernandez,France,0,0,0,0,0,0,0
+383,Theo Hernandez,France,0,0,0,0,0,0,0
+384,Alphonse Areola,France,1,81,82,29,GK,1,0
+385,Ibrahima Konaté,France,1,81,88,23,CB,0,0
+386,Eduardo Camavinga,France,1,79,89,19,CDM,0,0
+387,Marcus Thuram,France,1,78,83,24,ST,0,0
+388,Aymen Mathlouthi,Tunisia,0,0,0,0,0,0,0
+389,Bilel Ifa,Tunisia,0,0,0,0,0,0,0
+390,Montassar Talbi,Tunisia,1,67,72,24,CB,1,466
+391,Yassine Meriah,Tunisia,0,0,0,0,0,0,0
+392,Nader Ghandri,Tunisia,0,0,0,0,0,0,0
+393,Dylan Bronn,Tunisia,1,71,73,27,CB,1,582
+394,Youssef Msakni,Tunisia,0,0,0,0,0,0,0
+395,Hannibal Mejbri,Tunisia,1,64,84,19,RM,0,0
+396,Issam Jebali,Tunisia,1,66,66,30,CAM,1,0
+397,Wahbi Khazri,Tunisia,0,0,0,0,0,0,0
+398,Taha Yassine Khenissi,Tunisia,0,0,0,0,0,0,0
+399,Ali Maâloul,Tunisia,0,0,0,0,0,0,0
+400,Ferjani Sassi,Tunisia,0,0,0,0,0,0,0
+401,Aïssa Laïdouni,Tunisia,1,72,78,25,CDM,0,0
+402,Mohamed Ali Ben Romdhane,Tunisia,0,0,0,0,0,0,0
+403,Aymen Dahmen,Tunisia,0,0,0,0,0,0,0
+404,Ellyes Skhiri,Tunisia,1,79,80,27,CDM,0,0
+405,Ghailene Chaalali,Tunisia,0,0,0,0,0,0,0
+406,Seifeddine Jaziri,Tunisia,0,0,0,0,0,0,0
+407,Mohamed Dräger,Tunisia,1,70,73,26,RB,1,337
+408,Wajdi Kechrida,Tunisia,0,0,0,0,0,0,0
+409,Bechir Ben Saïd,Tunisia,0,0,0,0,0,0,0
+410,Naïm Sliti,Tunisia,1,76,76,29,LM,1,482
+411,Ali Abdi,Tunisia,1,71,71,28,LWB,1,0
+412,Anis Ben Slimane,Tunisia,1,67,73,21,CM,0,0
+413,Mouez Hassen,Tunisia,0,0,0,0,0,0,0
+414,Keylor Navas,Costa Rica,1,88,88,35,GK,1,1115
+415,Daniel Chacón,Costa Rica,0,0,0,0,0,0,0
+416,Juan Pablo Vargas,Costa Rica,0,0,0,0,0,0,0
+417,Keysher Fuller,Costa Rica,0,0,0,0,0,0,0
+418,Celso Borges,Costa Rica,0,0,0,0,0,1,191
+419,Óscar Duarte,Costa Rica,1,75,75,33,CB,1,714
+420,Anthony Contreras,Costa Rica,0,0,0,0,0,0,0
+421,Bryan Oviedo,Costa Rica,1,62,62,32,LB,1,609
+422,Jewison Bennette,Costa Rica,1,68,80,18,LM,1,221
+423,Bryan Ruiz,Costa Rica,0,0,0,0,0,0,0
+424,Johan Venegas,Costa Rica,0,0,0,0,0,0,0
+425,Joel Campbell,Costa Rica,0,0,0,0,0,0,0
+426,Gerson Torres,Costa Rica,0,0,0,0,0,0,0
+427,Youstin Salas,Costa Rica,0,0,0,0,0,0,0
+428,Francisco Calvo,Costa Rica,1,69,69,29,CB,1,1260
+429,Carlos Martínez,Costa Rica,0,0,0,0,0,0,0
+430,Yeltsin Tejeda,Costa Rica,0,0,0,0,0,0,0
+431,Esteban Alvarado,Costa Rica,0,0,0,0,0,0,0
+432,Kendall Waston,Costa Rica,0,0,0,0,0,0,0
+433,Brandon Aguilera,Costa Rica,0,0,0,0,0,0,0
+434,Douglas López,Costa Rica,0,0,0,0,0,0,0
+435,Rónald Matarrita,Costa Rica,1,71,71,27,LB,0,0
+436,Patrick Gilmar Sequeira,Costa Rica,1,62,69,23,GK,1,51
+437,Roan Wilson,Costa Rica,0,0,0,0,0,0,0
+438,Anthony Hernández,Costa Rica,0,0,0,0,0,0,0
+439,Álvaro Zamora,Costa Rica,0,0,0,0,0,0,0
+440,Manuel Neuer,Germany,1,90,90,36,GK,1,540
+441,Antonio Rüdiger,Germany,1,87,88,29,CB,1,630
+442,David Raum,Germany,1,81,85,24,LWB,1,187
+443,Matthias Ginter,Germany,1,82,83,28,CB,1,377
+444,Thilo Kehrer,Germany,1,76,79,25,CB,1,605
+445,Joshua Kimmich,Germany,1,89,90,27,CDM,1,683
+446,Kai Havertz,Germany,1,84,91,23,CAM,1,490
+447,Leon Goretzka,Germany,1,87,88,27,CM,1,635
+448,Niclas Füllkrug,Germany,1,75,75,29,ST,1,44
+449,Serge Gnabry,Germany,1,85,85,26,RM,1,578
+450,Mario Götze,Germany,1,81,81,30,CAM,1,0
+451,Kevin Trapp,Germany,1,86,86,31,GK,1,0
+452,Thomas Müller,Germany,1,87,87,32,CAM,1,253
+453,Jamal Musiala,Germany,1,81,90,19,CAM,1,148
+454,Niklas Süle,Germany,1,85,87,26,CB,1,419
+455,Lukas Klostermann,Germany,1,80,82,26,RB,1,319
+456,Julian Brandt,Germany,1,82,85,26,CAM,1,30
+457,Jonas Hofmann,Germany,1,81,81,29,CAM,1,397
+458,Leroy Sané,Germany,1,84,85,26,LM,1,682
+459,Christian Günter,Germany,1,80,80,29,LB,1,90
+460,İlkay Gündoğan,Germany,1,85,85,31,CM,1,586
+461,Marc-André ter Stegen,Germany,1,88,89,30,GK,1,270
+462,Nico Schlotterbeck,Germany,1,82,88,22,CB,1,0
+463,Karim Adeyemi,Germany,1,75,87,20,ST,1,48
+464,Armel Bella-Kotchap,Germany,0,0,0,0,0,0,0
+465,Youssoufa Moukoko,Germany,1,69,88,17,ST,1,46
+466,Eiji Kawashima,Japan,1,72,72,39,GK,1,270
+467,Miki Yamane,Japan,0,0,0,0,0,0,0
+468,Shogo Taniguchi,Japan,0,0,0,0,0,0,0
+469,Ko Itakura,Japan,1,75,80,25,CB,1,561
+470,Yuto Nagatomo,Japan,0,0,0,0,0,0,0
+471,Wataru Endo,Japan,1,78,78,29,CM,1,1369
+472,Gaku Shibasaki,Japan,1,69,69,30,CDM,1,907
+473,Ritsu Dōan,Japan,0,0,0,0,0,0,0
+474,Kaoru Mitoma,Japan,1,74,77,25,CAM,1,327
+475,Takumi Minamino,Japan,1,75,76,27,CAM,1,1282
+476,Takefusa Kubo,Japan,1,74,84,21,CAM,1,335
+477,Shūichi Gonda,Japan,0,0,0,0,0,0,0
+478,Hidemasa Morita,Japan,1,76,77,27,CM,1,769
+479,Junya Ito,Japan,1,78,78,29,RW,1,1219
+480,Daichi Kamada,Japan,1,80,82,25,CAM,1,729
+481,Takehiro Tomiyasu,Japan,1,79,85,23,CB,1,791
+482,Ao Tanaka,Japan,1,71,76,23,CM,1,814
+483,Takuma Asano,Japan,1,73,73,27,RW,1,521
+484,Hiroki Sakai,Japan,0,0,0,0,0,0,0
+485,Shuto Machino,Japan,0,0,0,0,0,0,0
+486,Ayase Ueda,Japan,1,70,75,23,ST,1,204
+487,Maya Yoshida,Japan,1,73,73,33,CB,1,1425
+488,Daniel Schmidt,Japan,1,69,69,30,GK,0,0
+489,Yuki Soma,Japan,0,0,0,0,0,0,0
+490,Daizen Maeda,Japan,1,72,77,24,ST,1,54
+491,Hiroki Ito,Japan,1,72,77,23,CDM,1,314
+492,Robert Sánchez,Spain,1,77,83,24,GK,0,0
+493,César Azpilicueta,Spain,1,82,82,32,CB,0,0
+494,Eric García,Spain,1,77,84,21,CDM,1,416
+495,Pau Torres,Spain,1,83,89,25,CB,1,90
+496,Sergio Busquets,Spain,1,85,85,33,CDM,1,445
+497,Marcos Llorente,Spain,1,84,85,27,CAM,1,396
+498,Álvaro Morata,Spain,1,80,80,29,ST,0,0
+499,Koke,Spain,1,83,83,30,CM,1,417
+500,Gavi,Spain,1,79,88,17,CAM,1,154
+501,Marco Asensio,Spain,1,83,84,26,RW,1,90
+502,Ferran Torres,Spain,1,82,88,22,LW,0,0
+503,Nico Williams,Spain,1,74,86,19,RM,0,0
+504,David Raya,Spain,1,76,78,26,GK,1,134
+505,Alejandro Balde,Spain,1,71,82,18,LM,0,0
+506,Hugo Guillamón,Spain,1,74,82,22,CDM,1,90
+507,Rodri,Spain,1,87,89,26,CDM,1,6
+508,Yeremy Pino,Spain,1,79,87,19,CAM,0,0
+509,Jordi Alba,Spain,1,85,85,33,LB,1,360
+510,Carlos Soler,Spain,1,83,88,25,CM,1,306
+511,Dani Carvajal,Spain,1,84,84,30,RB,1,90
+512,Dani Olmo,Spain,1,82,87,24,CAM,1,312
+513,Pablo Sarabia,Spain,1,81,81,30,RW,1,239
+514,Unai Simón,Spain,1,83,86,25,GK,1,704
+515,Aymeric Laporte,Spain,1,86,87,28,CB,0,0
+516,Ansu Fati,Spain,1,79,90,19,CAM,0,0
+517,Pedri,Spain,1,85,93,19,CM,0,0
+518,Thibaut Courtois,Belgium,1,90,91,30,GK,1,450
+519,Toby Alderweireld,Belgium,1,82,82,33,CB,1,533
+520,Arthur Theate,Belgium,1,75,82,22,CB,1,85
+521,Wout Faes,Belgium,1,77,82,24,CB,1,0
+522,Jan Vertonghen,Belgium,1,81,81,35,CB,1,429
+523,Axel Witsel,Belgium,1,79,79,33,CDM,1,360
+524,Kevin De Bruyne,Belgium,1,91,91,31,CM,1,353
+525,Youri Tielemans,Belgium,1,84,86,25,CM,1,370
+526,Romelu Lukaku,Belgium,1,86,86,29,ST,1,334
+527,Eden Hazard,Belgium,1,84,84,31,LW,1,238
+528,Yannick Carrasco,Belgium,1,85,85,28,LM,1,211
+529,Simon Mignolet,Belgium,1,80,80,34,GK,1,90
+530,Koen Casteels,Belgium,1,84,85,30,GK,1,180
+531,Dries Mertens,Belgium,1,84,84,35,CF,1,165
+532,Thomas Meunier,Belgium,1,78,78,30,RB,1,327
+533,Thorgan Hazard,Belgium,1,80,80,29,LM,1,292
+534,Leandro Trossard,Belgium,1,79,79,27,LM,1,296
+535,Amadou Onana,Belgium,1,74,84,20,CDM,1,0
+536,Leander Dendoncker,Belgium,1,76,77,27,CDM,1,259
+537,Hans Vanaken,Belgium,1,80,80,29,CM,1,441
+538,Timothy Castagne,Belgium,1,78,80,26,RWB,1,425
+539,Charles De Ketelaere,Belgium,1,78,88,21,CAM,1,65
+540,Michy Batshuayi,Belgium,1,77,77,28,ST,1,157
+541,Loïs Openda,Belgium,1,75,83,22,ST,0,0
+542,Jérémy Doku,Belgium,1,75,85,20,CAM,0,0
+543,Zeno Debast,Belgium,1,66,81,18,CDM,1,90
+544,Dayne St. Clair,Canada,1,71,77,25,GK,1,90
+545,Alistair Johnston,Canada,1,70,74,23,RM,1,1374
+546,Sam Adekugbe,Canada,1,70,71,27,LB,1,1104
+547,Kamal Miller,Canada,1,71,75,25,CB,1,951
+548,Steven Vitória,Canada,1,69,69,35,CB,0,0
+549,Samuel Piette,Canada,1,70,70,27,CDM,1,325
+550,Stephen Eustáquio,Canada,1,76,82,25,CDM,0,0
+551,Liam Fraser,Canada,0,0,0,0,0,0,0
+552,Lucas Cavallini,Canada,1,71,71,29,ST,1,316
+553,Junior Hoilett,Canada,1,70,70,32,RW,1,605
+554,Tajon Buchanan,Canada,1,72,78,23,RM,1,1110
+555,Iké Ugbo,Canada,1,72,78,23,ST,0,0
+556,Atiba Hutchinson,Canada,1,72,72,39,CDM,1,759
+557,Mark-Anthony Kaye,Canada,1,71,72,27,CM,0,0
+558,Ismaël Koné,Canada,1,65,80,20,CAM,0,0
+559,James Pantemis,Canada,1,66,70,25,GK,1,0
+560,Cyle Larin,Canada,1,74,75,27,ST,1,977
+561,Milan Borjan,Canada,1,77,77,34,GK,1,1260
+562,Alphonso Davies,Canada,1,84,89,21,LM,1,1056
+563,Jonathan David,Canada,1,79,85,22,ST,1,1342
+564,Jonathan Osorio,Canada,1,74,74,30,CM,1,914
+565,Richie Laryea,Canada,1,72,72,27,RWB,1,1242
+566,Liam Millar,Canada,1,67,76,22,RM,1,332
+567,David Wotherspoon,Canada,1,67,67,32,CAM,0,0
+568,Derek Cornelius,Canada,0,0,0,0,0,0,0
+569,Joel Waterman,Canada,1,67,70,26,CB,1,0
+570,Dominik Livaković,Croatia,1,80,83,27,GK,1,540
+571,Josip Stanišić,Croatia,1,72,81,22,RB,0,0
+572,Borna Barišić,Croatia,1,73,73,29,LB,1,349
+573,Ivan Perišić,Croatia,1,84,84,33,LM,1,721
+574,Martin Erlić,Croatia,1,74,79,24,CB,1,90
+575,Dejan Lovren,Croatia,1,78,78,32,CB,1,527
+576,Lovro Majer,Croatia,1,80,85,24,CAM,1,96
+577,Mateo Kovačić,Croatia,1,84,84,28,CM,1,499
+578,Andrej Kramarić,Croatia,1,82,82,31,CF,1,568
+579,Luka Modrić,Croatia,1,88,88,36,CM,1,534
+580,Marcelo Brozović,Croatia,1,86,86,29,CDM,1,760
+581,Ivo Grbić,Croatia,1,74,78,26,GK,1,180
+582,Nikola Vlašić,Croatia,1,78,83,24,CAM,1,566
+583,Marko Livaja,Croatia,1,77,77,28,ST,1,197
+584,Mario Pašalić,Croatia,1,81,81,27,CAM,1,547
+585,Bruno Petković,Croatia,1,75,75,27,CAM,1,68
+586,Ante Budimir,Croatia,1,76,76,30,ST,1,132
+587,Mislav Oršić,Croatia,1,77,77,29,LW,1,274
+588,Borna Sosa,Croatia,1,78,83,24,LWB,1,450
+589,Joško Gvardiol,Croatia,1,81,89,20,CB,1,360
+590,Domagoj Vida,Croatia,1,76,76,33,CB,1,360
+591,Josip Juranović,Croatia,1,75,76,26,RB,1,659
+592,Ivica Ivušić,Croatia,1,72,76,27,GK,1,180
+593,Josip Šutalo,Croatia,1,75,84,22,CB,1,0
+594,Luka Sučić,Croatia,1,73,84,19,CAM,1,5
+595,Kristijan Jakić,Croatia,1,76,79,25,CDM,1,50
+596,Yassine Bounou,Morocco,1,84,84,31,GK,1,1033
+597,Achraf Hakimi,Morocco,1,84,87,23,RB,1,622
+598,Noussair Mazraoui,Morocco,1,82,86,24,RM,0,0
+599,Sofyan Amrabat,Morocco,1,76,79,25,CM,1,950
+600,Nayef Aguerd,Morocco,1,80,83,26,CB,0,0
+601,Romain Saïss,Morocco,1,77,77,32,CB,1,963
+602,Hakim Ziyech,Morocco,1,83,83,29,RW,1,256
+603,Azzedine Ounahi,Morocco,1,70,81,22,CM,1,347
+604,Abderrazak Hamdallah,Morocco,1,76,76,31,ST,1,44
+605,Anass Zaroury,Belgium,1,68,77,21,CAM,1,0
+606,Abdelhamid Sabiri,Morocco,1,72,77,25,CAM,1,40
+607,Munir Mohamedi,Morocco,1,79,79,26,LM,0,0
+608,Ilias Chair,Morocco,1,71,77,24,CAM,0,0
+609,Zakaria Aboukhlal,Morocco,1,71,80,22,LM,0,0
+610,Selim Amallah,Morocco,1,73,76,25,CAM,0,0
+611,Abde Ezzalzouli,Morocco,0,0,0,0,0,0,0
+612,Sofiane Boufal,Morocco,1,77,77,28,CAM,1,184
+613,Jawad El Yamiq,Morocco,1,75,75,30,CB,1,125
+614,Youssef En-Nesyri,Morocco,1,80,85,25,ST,1,297
+615,Achraf Dari,Morocco,1,69,76,23,CB,1,180
+616,Walid Cheddira,Morocco,0,0,0,0,0,0,0
+617,Ahmed Reda Tagnaouti,Morocco,1,71,75,26,GK,1,0
+618,Bilal El Khannous,Morocco,0,0,0,0,0,0,0
+619,Badr Benoun,Morocco,0,0,0,0,0,0,0
+620,Yahia Attiyat Allah,Morocco,0,0,0,0,0,0,0
+621,Yahya Jabrane,Morocco,0,0,0,0,0,0,0
+622,Alisson,Brazil,1,89,90,29,GK,1,1440
+623,Danilo,Brazil,1,80,80,30,RB,1,2350
+624,Thiago Silva,Brazil,1,86,86,37,CB,1,1800
+625,Marquinhos,Brazil,1,88,90,28,CB,1,2712
+626,Casemiro,Brazil,1,89,89,30,CDM,1,1888
+627,Alex Sandro,Brazil,1,80,80,31,LB,1,1710
+628,Lucas Paquetá,Brazil,1,82,87,24,CAM,0,0
+629,Fred,Brazil,1,80,80,29,CM,1,1419
+630,Richarlison,Brazil,1,81,84,25,ST,1,1263
+631,Neymar,Brazil,1,89,89,30,LW,1,2148
+632,Raphinha,Brazil,1,83,86,25,LM,0,0
+633,Weverton,Brazil,0,0,0,0,0,0,0
+634,Dani Alves,Brazil,0,0,0,0,0,0,0
+635,Éder Militão,Brazil,1,84,89,24,CB,1,1582
+636,Fabinho,Brazil,1,87,88,28,CDM,1,1066
+637,Alex Telles,Brazil,1,80,80,29,LB,1,571
+638,Bruno Guimarães,Brazil,1,81,86,24,CM,1,360
+639,Gabriel Jesus,Brazil,1,83,86,25,ST,1,1257
+640,Antony,Brazil,1,82,88,22,LM,1,683
+641,Vinícius Júnior,Brazil,1,76,77,27,ST,0,0
+642,Rodrygo,Brazil,1,81,88,21,RM,1,81
+643,Éverton Ribeiro,Brazil,0,0,0,0,0,0,0
+644,Ederson,Brazil,1,89,91,28,GK,1,900
+645,Bremer,Brazil,1,83,87,25,CB,1,44
+646,Pedro,Brazil,1,78,78,26,CB,1,72
+647,Gabriel Martinelli,Brazil,1,81,87,24,CB,0,0
+648,Simon Ngapandouetnbu,Cameroon,0,0,0,0,0,0,0
+649,Jerome Ngom Mbekeli,Cameroon,0,0,0,0,0,0,0
+650,Nicolas Nkoulou,Cameroon,0,0,0,0,0,0,0
+651,Christopher Wooh,Cameroon,1,68,77,20,CB,0,0
+652,Gaël Ondoua,Cameroon,1,68,71,26,CDM,1,157
+653,Moumi Ngamaleu,Cameroon,0,0,0,0,0,0,0
+654,Georges-Kévin Nkoudou,Cameroon,0,0,0,0,0,0,0
+655,André-Frank Zambo Anguissa,Cameroon,0,0,0,0,0,0,0
+656,Jean-Pierre Nsame,Cameroon,0,0,0,0,0,0,0
+657,Vincent Aboubakar,Cameroon,1,75,75,30,ST,1,649
+658,Christian Bassogog,Cameroon,1,74,74,26,ST,1,182
+659,Karl Toko Ekambi,Cameroon,1,78,78,29,LM,1,587
+660,Eric Maxim Choupo-Moting,Cameroon,0,0,0,0,0,0,0
+661,Samuel Gouet,Cameroon,0,0,0,0,0,0,0
+662,Pierre Kunde,Cameroon,0,0,0,0,0,0,0
+663,Devis Epassy,Cameroon,1,66,68,29,GK,0,0
+664,Olivier Mbaizo,Cameroon,1,67,71,24,RWB,1,332
+665,Martin Hongla,Cameroon,1,72,78,24,CAM,1,747
+666,Collins Fai,Cameroon,1,70,70,29,RB,1,743
+667,Bryan Mbeumo,Cameroon,1,75,81,22,CAM,0,0
+668,Jean-Charles Castelletto,Cameroon,1,74,75,27,CB,0,0
+669,Olivier Ntcham,Cameroon,0,0,0,0,0,0,0
+670,André Onana,Cameroon,1,82,85,26,GK,0,0
+671,Enzo Ebosse,Cameroon,1,70,78,23,CB,0,0
+672,Nouhou Tolo,Cameroon,1,70,71,25,LB,1,615
+673,Souaibou Marou,Cameroon,0,0,0,0,0,0,0
+674,Marko Dmitrović,Serbia,1,80,81,30,GK,1,180
+675,Strahinja Pavlović,Serbia,1,71,82,21,CB,1,586
+676,Strahinja Eraković,Serbia,0,0,0,0,0,0,0
+677,Nikola Milenković,Serbia,1,80,85,24,CB,1,450
+678,Miloš Veljković,Serbia,1,73,75,26,CB,0,0
+679,Nemanja Maksimović,Serbia,1,79,80,27,CM,1,147
+680,Nemanja Radonjić,Serbia,1,74,75,26,LW,1,250
+681,Nemanja Gudelj,Serbia,1,79,79,30,CDM,1,489
+682,Aleksandar Mitrović,Serbia,1,78,78,27,ST,1,530
+683,Dušan Tadić,Serbia,1,84,84,33,LW,1,611
+684,Luka Jović,Serbia,1,79,84,24,ST,1,118
+685,Predrag Rajković,Serbia,1,78,81,26,GK,1,540
+686,Stefan Mitrović,Serbia,1,74,74,32,CB,1,360
+687,Andrija Živković,Serbia,1,77,78,25,RW,1,95
+688,Srđan Babić,Serbia,1,73,78,26,CB,1,0
+689,Saša Lukić,Serbia,1,77,80,25,CM,1,360
+690,Filip Kostić,Serbia,1,85,85,29,LM,1,591
+691,Dušan Vlahović,Serbia,1,84,91,22,ST,1,490
+692,Uroš Račić,Serbia,1,75,80,24,CM,1,63
+693,Sergej Milinković-Savić,Serbia,1,86,87,27,CM,1,630
+694,Filip Đuričić,Serbia,0,0,0,0,0,0,0
+695,Darko Lazović,Serbia,1,77,77,31,LM,1,227
+696,Vanja Milinković-Savić,Serbia,1,73,77,25,GK,0,0
+697,Ivan Ilić,Serbia,1,76,86,21,CAM,1,0
+698,Filip Mladenović,Serbia,1,69,69,30,LB,1,48
+699,Marko Grujić,Serbia,1,76,79,26,CM,1,92
+700,Yann Sommer,Switzerland,1,85,85,33,GK,1,720
+701,Edimilson Fernandes,Switzerland,1,71,73,26,CDM,1,25
+702,Silvan Widmer,Switzerland,1,77,77,29,RWB,1,520
+703,Nico Elvedi,Switzerland,1,77,81,25,CB,1,540
+704,Manuel Akanji,Switzerland,1,81,82,26,CB,1,503
+705,Denis Zakaria,Switzerland,1,81,86,25,CDM,1,422
+706,Breel Embolo,Switzerland,1,77,80,25,ST,1,334
+707,Remo Freuler,Switzerland,1,80,80,30,CM,1,602
+708,Haris Seferovic,Switzerland,0,0,0,0,0,0,0
+709,Granit Xhaka,Switzerland,1,79,79,29,CDM,1,180
+710,Renato Steffen,Switzerland,1,76,76,30,LM,1,350
+711,Jonas Omlin,Switzerland,1,79,81,28,GK,1,0
+712,Ricardo Rodriguez,Switzerland,0,0,0,0,0,0,0
+713,Michel Aebischer,Switzerland,1,75,78,25,CM,1,94
+714,Djibril Sow,Switzerland,1,80,82,25,CM,1,168
+715,Christian Fassnacht,Switzerland,1,76,76,28,RM,1,110
+716,Ruben Vargas,Switzerland,1,75,81,23,LM,1,399
+717,Eray Cömert,Switzerland,1,72,78,24,CB,0,0
+718,Noah Okafor,Switzerland,1,75,83,22,RM,1,147
+719,Fabian Frei,Switzerland,1,71,71,33,CDM,1,250
+720,Gregor Kobel,Switzerland,1,83,88,24,GK,1,0
+721,Fabian Schär,Switzerland,1,77,77,30,CB,1,307
+722,Xherdan Shaqiri,Switzerland,1,76,76,30,CAM,1,490
+723,Philipp Köhn,Switzerland,1,70,76,24,GK,1,0
+724,Fabian Rieder,Switzerland,1,68,83,20,CAM,1,0
+725,Ardon Jashari,Switzerland,1,65,82,19,CAM,0,0
+726,Lawrence Ati-Zigi,Ghana,0,0,0,0,0,0,0
+727,Tariq Lamptey,Ghana,1,75,83,21,RWB,0,0
+728,Denis Odoi,Ghana,1,72,72,34,RB,0,0
+729,Mohammed Salisu,Ghana,1,77,85,23,CB,0,0
+730,Thomas Partey,Ghana,1,84,84,29,CDM,1,360
+731,Elisha Owusu,Ghana,1,71,75,24,CDM,0,0
+732,Abdul Fatawu Issahaku,Ghana,1,67,86,18,CAM,1,386
+733,Daniel-Kofi Kyereh,Ghana,1,75,78,26,CAM,0,0
+734,Jordan Ayew,Ghana,1,75,75,30,RW,1,724
+735,André Ayew,Ghana,1,75,75,32,CF,0,0
+736,Osman Bukari,Ghana,0,0,0,0,0,0,0
+737,Ibrahim Danlad,Ghana,1,68,79,19,GK,1,0
+738,Daniel Afriyie,Ghana,0,0,0,0,0,0,0
+739,Gideon Mensah,Ghana,1,70,76,23,LWB,1,450
+740,Joseph Aidoo,Ghana,1,78,81,26,CB,1,106
+741,Abdul Manaf Nurudeen,Ghana,1,66,76,23,GK,1,66
+742,Baba Rahman,Ghana,1,70,70,27,LWB,1,648
+743,Daniel Amartey,Ghana,1,76,77,27,CB,1,990
+744,Iñaki Williams,Ghana,1,81,81,28,ST,0,0
+745,Mohammed Kudus,Ghana,1,76,84,21,CAM,1,615
+746,Salis Abdul Samed,Ghana,1,71,75,22,CDM,1,90
+747,Kamaldeen Sulemana,Ghana,1,75,85,20,RM,0,0
+748,Alexander Djiku,Ghana,1,77,79,27,CB,0,0
+749,Kamal Sowah,Ghana,1,72,79,22,LM,1,28
+750,Antoine Semenyo,Ghana,1,70,79,22,ST,0,0
+751,Alidu Seidu,Ghana,1,68,74,22,RB,0,0
+752,Rui Patrício,Portugal,1,82,82,34,GK,1,450
+753,Diogo Dalot,Portugal,1,78,84,23,RB,1,180
+754,Pepe,Portugal,1,81,81,39,CB,0,0
+755,Rúben Dias,Portugal,1,88,91,25,CB,1,630
+756,Raphaël Guerreiro,Portugal,1,82,82,28,CAM,1,221
+757,João Palhinha,Portugal,1,81,83,26,CB,1,332
+758,Cristiano Ronaldo,Portugal,1,90,90,37,ST,1,810
+759,Bruno Fernandes,Portugal,1,86,86,27,CAM,1,634
+760,André Silva,Portugal,1,82,84,26,ST,1,372
+761,Bernardo Silva,Portugal,1,88,88,27,CAM,1,761
+762,João Félix,Portugal,1,84,90,22,CAM,1,105
+763,José Sá,Portugal,1,81,82,29,GK,1,0
+764,Danilo Pereira,Portugal,1,80,80,30,CDM,1,450
+765,William Carvalho,Portugal,1,80,80,30,CDM,1,-17
+766,Rafael Leão,Portugal,1,84,90,23,LW,1,60
+767,Vitinha,Portugal,1,79,89,22,CAM,0,0
+768,João Mário,Portugal,1,79,79,29,CM,1,65
+769,Rúben Neves,Portugal,1,83,86,25,CM,1,245
+770,Nuno Mendes,Portugal,1,80,88,20,LB,1,517
+771,João Cancelo,Portugal,1,88,88,28,LB,1,694
+772,Ricardo Horta,Portugal,1,81,81,27,CF,1,14
+773,Diogo Costa,Portugal,1,79,86,22,GK,1,180
+774,Matheus Nunes,Portugal,1,79,86,23,CAM,0,0
+775,António Silva,Portugal,1,66,86,18,CB,1,90
+776,Otávio,Portugal,1,82,82,27,RM,0,0
+777,Gonçalo Ramos,Portugal,1,75,85,21,ST,0,0
+778,Gue Sung Cho,South Korea,1,70,77,24,ST,0,0
+779,Yu Min Cho ,South Korea,0,0,0,0,0,0,0
+780,Chul Hong,South Korea,1,71,71,31,LWB,1,599
+781,Hee Chan Hwang,South Korea,1,77,78,26,LW,1,1230
+782,In Beom Hwang ,South Korea,0,0,0,0,0,0,0
+783,Ui Jo Hwang,South Korea,0,0,0,0,0,0,0
+784,Woo Yeong Jeong,South Korea,1,72,77,22,RM,1,234
+785,Hyeon Woo Jo,South Korea,1,73,73,30,GK,0,0
+786,Woo Yeong Jeong,South Korea,0,0,0,0,0,0,0
+787,Kim Jin Su,South Korea,1,71,71,30,LB,1,1197
+788,Kim Min Jae,South Korea,1,79,84,25,CB,1,1457
+789,Moon Hwan Kim,South Korea,1,68,69,26,RB,1,604
+790,Seung Gyu Kim,South Korea,1,70,70,31,GK,1,1170
+791,Tae Hwan Kim,South Korea,1,72,72,32,RB,1,586
+792,Young Gwon Kim,South Korea,1,71,71,32,CB,1,1678
+793,Chang Hoon Kwon,South Korea,1,66,66,28,RW,1,1074
+794,Kyung Won Kwon,South Korea,0,0,0,0,0,0,0
+795,Jae Sung Lee,South Korea,1,76,76,29,CAM,1,1116
+796,Kang In Lee,South Korea,1,73,81,21,CAM,1,100
+797,Sang Ho Na,South Korea,1,70,70,25,LW,1,403
+798,Seung Ho Paik,South Korea,1,70,75,25,CM,1,594
+799,Heung Min Son,South Korea,1,89,89,29,LW,1,1588
+800,Jun Ho Son,South Korea,1,73,73,30,CDM,0,0
+801,Bum Keun Song,South Korea,1,70,78,24,GK,1,0
+802,Min Kyu Song,South Korea,1,68,75,22,ST,1,610
+803,Jong Gyu Yoon,South Korea,1,65,72,24,RB,1,150
+804,Fernando Muslera,Uruguay,1,79,79,36,GK,1,1890
+805,José Giménez,Uruguay,0,0,0,0,0,0,0
+806,Diego Godín,Uruguay,1,77,77,36,CB,1,3099
+807,Ronald Araújo,Uruguay,0,0,0,0,0,0,0
+808,Matías Vecino,Uruguay,0,0,0,0,0,0,0
+809,Rodrigo Bentancur,Uruguay,1,79,83,25,CDM,1,2621
+810,Nicolás de la Cruz,Uruguay,0,0,0,0,0,0,0
+811,Facundo Pellistri,Uruguay,1,70,82,20,RM,1,627
+812,Luis Suárez,Uruguay,1,84,84,35,ST,1,2350
+813,Giorgian de Arrascaeta,Uruguay,0,0,0,0,0,0,0
+814,Darwin Núñez,Uruguay,1,82,89,23,ST,1,1111
+815,Sebastián Sosa,Uruguay,0,0,0,0,0,0,0
+816,Guillermo Varela,Uruguay,0,0,0,0,0,0,0
+817,Lucas Torreira,Uruguay,1,81,83,26,CDM,1,1275
+818,Federico Valverde,Uruguay,1,84,90,23,CM,1,2761
+819,Mathías Olivera,Uruguay,1,77,83,24,LB,1,540
+820,Matías Viña,Uruguay,1,75,78,24,LWB,1,1767
+821,Maxi Gómez,Uruguay,0,0,0,0,0,0,0
+822,Sebastián Coates,Uruguay,1,82,82,31,CB,1,720
+823,Facundo Torres,Uruguay,1,73,81,22,CAM,1,476
+824,Edinson Cavani,Uruguay,1,81,81,35,ST,1,1039
+825,Martín Cáceres,Uruguay,1,73,73,35,CB,1,1634
+826,Sergio Rochet,Uruguay,1,78,80,29,GK,1,900
+827,Agustín Canobbio,Uruguay,0,0,0,0,0,0,0
+828,Manuel Ugarte,Uruguay,1,77,85,21,CM,1,179
+829,José Luis Rodríguez,Uruguay,0,0,0,0,0,0,0
